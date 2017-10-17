@@ -1,7 +1,7 @@
 This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.12.17)  17 OCT 2017 15:01
 entering extended mode
-**./maindocument.tex
-(maindocument.tex
+**./document.tex
+(document.tex
 LaTeX2e <2016/03/31> patch level 3
 Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
 (llncs.cls
@@ -664,8 +664,8 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 LaTeX Warning: Unused global option(s):
     [conference,compsocconf].
 
-(maindocument.aux)
-\openout1 = `maindocument.aux'.
+(document.aux)
+\openout1 = `document.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
 LaTeX Font Info:    ... okay on input line 59.
@@ -786,32 +786,47 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 83.
 
 (D:\Programmes\MiKTEX\tex\latex\amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1
+)
+<mdgs-full.png, id=1, 680.5425pt x 339.2675pt>
+File: mdgs-full.png Graphic file (type png)
+ <use mdgs-full.png>
+Package pdftex.def Info: mdgs-full.png used on input line 99.
+(pdftex.def)             Requested size: 200.0pt x 99.70512pt.
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] (maindocument.bbl
+<sdgs.jpg, id=2, 652.4375pt x 433.62pt>
+File: sdgs.jpg Graphic file (type jpg)
+ <use sdgs.jpg>
+Package pdftex.def Info: sdgs.jpg used on input line 107.
+(pdftex.def)             Requested size: 200.0pt x 132.92548pt.
+ [1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./mdgs-full.png>] [2 <./s
+dgs.jpg>] [3]
+(document.bbl
 
 LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
-) [2] [3] (maindocument.aux) ) 
+) [4] (document.aux) ) 
 Here is how much of TeX's memory you used:
- 5065 strings out of 493334
- 64668 string characters out of 3142273
- 146563 words of memory out of 3000000
- 8492 multiletter control sequences out of 15000+200000
- 11502 words of font info for 30 fonts, out of 3000000 for 9000
+ 5077 strings out of 493334
+ 64767 string characters out of 3142273
+ 147555 words of memory out of 3000000
+ 8500 multiletter control sequences out of 15000+200000
+ 12191 words of font info for 31 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,4n,30p,263b,439s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\djava_000\AppData\Local\MiKTeX\2.9\fon
-ts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> <C:\Users\djava_000\AppData\Local\
-MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1000.pk> <C:\Users\djava_000\
-AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx0900.pk> <C:\Us
-ers\djava_000\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0
-900.pk> <C:\Users\djava_000\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\e
-c\dpi600\ecrm1000.pk> <C:\Users\djava_000\AppData\Local\MiKTeX\2.9\fonts\pk\ljf
-our\jknappen\ec\dpi600\ecbx1440.pk>
-Output written on maindocument.pdf (3 pages, 66544 bytes).
+ 40i,6n,30p,550b,439s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\djava_000\AppData\Local\MiKTeX\2.9\fonts\pk\lj
+four\jknappen\ec\dpi600\ecxc0900.pk> <C:\Users\djava_000\AppData\Local\MiKTeX\2
+.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> <C:\Users\djava_000\AppData\
+Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1000.pk> <C:\Users\djav
+a_000\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx0900.pk> 
+<C:\Users\djava_000\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600
+\ecrm0900.pk> <C:\Users\djava_000\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jkna
+ppen\ec\dpi600\ecrm1000.pk> <C:\Users\djava_000\AppData\Local\MiKTeX\2.9\fonts\
+pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk>
+Output written on document.pdf (4 pages, 180609 bytes).
 PDF statistics:
- 217 PDF objects out of 1000 (max. 8388607)
+ 269 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

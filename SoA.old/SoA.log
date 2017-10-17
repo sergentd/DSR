@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.12.17)  4 OCT 2017 01:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.12.17)  17 OCT 2017 14:47
 entering extended mode
 **./SoA.tex
 (SoA.tex
@@ -558,12 +558,12 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] (SoA.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 4.
+(Font)              <10.95> on input line 3.
 )
 \tf@toc=\write3
 \openout3 = `SoA.toc'.
 
- [1] (SoA.lof)
+ (SoA.lof [1])
 \tf@lof=\write4
 \openout4 = `SoA.lof'.
 
@@ -584,29 +584,34 @@ File: sdgs.jpg Graphic file (type jpg)
 Package pdftex.def Info: sdgs.jpg used on input line 33.
 (pdftex.def)             Requested size: 200.0pt x 132.92548pt.
  [2 <./mdgs-full.png>]
-[3 <./sdgs.jpg>] [4] [5] (SoA.bbl) [6] (SoA.aux) ) 
+[3 <./sdgs.jpg>]
+Overfull \hbox (3.01045pt too wide) in paragraph at lines 68--71
+\T1/cmr/m/n/10.95 Concernant l'ac-cès à l'eau po-table, la si-tua-tion évo-lue 
+po-si-ti-ve-ment. On constate
+ []
+
+[4] [5] (SoA.bbl) [6] (SoA.aux) ) 
 Here is how much of TeX's memory you used:
  3613 strings out of 493334
  47534 string characters out of 3142273
- 123590 words of memory out of 3000000
+ 124590 words of memory out of 3000000
  7081 multiletter control sequences out of 15000+200000
  14060 words of font info for 35 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,6n,30p,535b,439s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\djava_000\AppData\
-Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1095.pk> <C:\Users\djav
-a_000\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> 
-<C:\Users\djava_000\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600
-\eccc1095.pk> <C:\Users\djava_000\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jkna
-ppen\ec\dpi600\ecrm1095.pk> <C:\Users\djava_000\AppData\Local\MiKTeX\2.9\fonts\
-pk\ljfour\jknappen\ec\dpi600\ecbx1095.pk> <C:\Users\djava_000\AppData\Local\MiK
-TeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk> <C:\Users\djava_000\App
-Data\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk> <C:\Users
-\djava_000\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1728
-.pk>
-Output written on SoA.pdf (7 pages, 201432 bytes).
+ 40i,6n,30p,539b,439s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\djava_000\AppData\Local\MiKTeX\2.9\
+fonts\pk\ljfour\jknappen\ec\dpi600\ecti1095.pk> <C:\Users\djava_000\AppData\Loc
+al\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> <C:\Users\djava_0
+00\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\eccc1095.pk> <C:
+\Users\djava_000\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ec
+rm1095.pk> <C:\Users\djava_000\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappe
+n\ec\dpi600\ecbx1095.pk> <C:\Users\djava_000\AppData\Local\MiKTeX\2.9\fonts\pk\
+ljfour\jknappen\ec\dpi600\ecbx1440.pk> <C:\Users\djava_000\AppData\Local\MiKTeX
+\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk> <C:\Users\djava_000\AppDat
+a\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1728.pk>
+Output written on SoA.pdf (7 pages, 205592 bytes).
 PDF statistics:
- 333 PDF objects out of 1000 (max. 8388607)
+ 337 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

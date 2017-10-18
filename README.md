@@ -6,4 +6,4 @@ L'état de l'art porte sur le monitoring dans le cadre des SDGs ainsi que sur le
 Ce document est réalisé en collaboration avec M. François Grey et Mme Rosy Mondardini.
 
 ## Installation
-Aucune hormis [Adobe Reader](https://get.adobe.com/reader/?loc=fr), aucune installation particulière n'est nécessaire pour consulter le docment PDF généré par LaTeX.
+Hormis [Adobe Reader](https://get.adobe.com/reader/?loc=fr), aucune installation particulière n'est nécessaire pour consulter le docment PDF généré par LaTeX.

@@ -9,12 +9,12 @@ Nicholas~John Ashbolt.
 \bibitem{united_nations_economic_and_social_council_progress_2017}
 United Nations Economic {and}~Social Council.
 \newblock Progress towards the {Sustainable} {Development} {Goals}.
-\newblock Technical report, November 2017.
+\newblock Technical report, United Nations, November 2017.
 
 \bibitem{united_nations_economic_and_social_council_progress_2017-1}
 United Nations Economic {and}~Social Council.
 \newblock Progress towards the {Sustainable} {Development} {Goals}.
-\newblock Technical report, March 2017.
+\newblock Technical report, United Nations, March 2017.
 
 \bibitem{gwt_global_nodate}
 GWT.
@@ -36,16 +36,32 @@ Soumis par~Thierry Lefèvre.
   viable {\textbar} {Les} résultats de la recherche en science du
   développement durable.
 
+\bibitem{united_nations_goal_nodate}
+United Nations.
+\newblock Goal 13 .:. {Sustainable} {Development} {Knowledge} {Platform}.
+
+\bibitem{united_nations_goal_nodate-2}
+United Nations.
+\newblock Goal 14 .:. {Sustainable} {Development} {Knowledge} {Platform}.
+
+\bibitem{united_nations_goal_nodate-3}
+United Nations.
+\newblock Goal 15 .:. {Sustainable} {Development} {Knowledge} {Platform}.
+
+\bibitem{united_nations_goal_nodate-5}
+United Nations.
+\newblock Goal 3 .:. {Sustainable} {Development} {Knowledge} {Platform}.
+
+\bibitem{united_nations_goal_nodate-4}
+United Nations.
+\newblock Goal 6 .:. {Sustainable} {Development} {Knowledge} {Platform}.
+
 \bibitem{united_nations_millennium_2009}
 United Nations.
 \newblock {\em Millennium {Development} {Goals} {Report} 2009 ({Includes} the
   2009 {Progress} {Chart})}.
 \newblock United Nations Publications, 2009.
 \newblock Google-Books-ID: wDro5dHnTk4C.
-
-\bibitem{sdkp_goal_nodate}
-{Sustainable} {Development}~{Knowledge} {Platform}.
-\newblock Goal 13 .:. {Sustainable} {Development} {Knowledge} {Platform}.
 
 \bibitem{rana_water_2017}
 Himanshu Rana and Nirvair Neeru.
@@ -54,28 +70,12 @@ Himanshu Rana and Nirvair Neeru.
 \newblock {\em Advances in Computational Sciences and Technology},
   10(6):1923--1940, 2017.
 
-\bibitem{sdkp_goal_nodate-2}
-SDKP.
-\newblock Goal 14 .:. {Sustainable} {Development} {Knowledge} {Platform}.
-
-\bibitem{sdkp_goal_nodate-3}
-SDKP.
-\newblock Goal 15 .:. {Sustainable} {Development} {Knowledge} {Platform}.
-
-\bibitem{sdkp_goal_nodate-5}
-SDKP.
-\newblock Goal 3 .:. {Sustainable} {Development} {Knowledge} {Platform}.
-
-\bibitem{sdkp_goal_nodate-4}
-SDKP.
-\newblock Goal 6 .:. {Sustainable} {Development} {Knowledge} {Platform}.
-
 \bibitem{texeira_gastroenteritis_1993}
 Maria da Glória Lima~Cruz Texeira, Maria da Conceiçao~Nascimento Costa, Vera
   Lúcia Pires~de Carvalho, Manuel dos~Santos Pereira, and Eduardo Hage.
 \newblock Gastroenteritis epidemic in the area of the {Itaparica} {Dam},
   {Bahia}, {Brazil}.
-\newblock 1993.
+\newblock {\em PAHO}, page~9, 1993.
 
 \bibitem{wikipedia_millennium_2017}
 Wikipedia.

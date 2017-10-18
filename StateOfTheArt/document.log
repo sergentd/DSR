@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.12.17)  18 OCT 2017 15:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.12.17)  18 OCT 2017 15:50
 entering extended mode
 **./document.tex
 (document.tex
@@ -805,29 +805,29 @@ dgs.jpg>] [3]
 (document.bbl
 Underfull \vbox (badness 1975) has occurred while \output is active []
 
- [4])
-[5] (document.aux) ) 
+ [4]
+[5]) [6] (document.aux) ) 
 Here is how much of TeX's memory you used:
- 5098 strings out of 493334
- 65253 string characters out of 3142273
- 148621 words of memory out of 3000000
- 8520 multiletter control sequences out of 15000+200000
+ 5099 strings out of 493334
+ 65277 string characters out of 3142273
+ 148626 words of memory out of 3000000
+ 8521 multiletter control sequences out of 15000+200000
  12877 words of font info for 32 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,6n,30p,721b,439s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\djava_000\AppData\Local\MiKTeX\2.9\fonts\pk\ljfo
-ur\jknappen\ec\dpi600\ecti0900.pk> <C:\Users\djava_000\AppData\Local\MiKTeX\2.9
-\fonts\pk\ljfour\jknappen\ec\dpi600\ecxc0900.pk> <C:\Users\djava_000\AppData\Lo
-cal\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> <C:\Users\djava_
-000\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1000.pk> <C
-:\Users\djava_000\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\e
-cbx0900.pk> <C:\Users\djava_000\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknapp
-en\ec\dpi600\ecrm0900.pk> <C:\Users\djava_000\AppData\Local\MiKTeX\2.9\fonts\pk
-\ljfour\jknappen\ec\dpi600\ecrm1000.pk> <C:\Users\djava_000\AppData\Local\MiKTe
-X\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk>
-Output written on document.pdf (5 pages, 211653 bytes).
+ 40i,6n,30p,769b,439s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\djava_000\AppData\Local\MiKTeX\2.9\fonts\pk
+\ljfour\jknappen\ec\dpi600\ecti0900.pk> <C:\Users\djava_000\AppData\Local\MiKTe
+X\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecxc0900.pk> <C:\Users\djava_000\AppDa
+ta\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> <C:\Users\d
+java_000\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1000.p
+k> <C:\Users\djava_000\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi
+600\ecbx0900.pk> <C:\Users\djava_000\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\j
+knappen\ec\dpi600\ecrm0900.pk> <C:\Users\djava_000\AppData\Local\MiKTeX\2.9\fon
+ts\pk\ljfour\jknappen\ec\dpi600\ecrm1000.pk> <C:\Users\djava_000\AppData\Local\
+MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk>
+Output written on document.pdf (6 pages, 213085 bytes).
 PDF statistics:
- 363 PDF objects out of 1000 (max. 8388607)
+ 368 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

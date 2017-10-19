@@ -1,26 +1,27 @@
-\begin{thebibliography}{10}
+\newcommand{\etalchar}[1]{$^{#1}$}
+\begin{thebibliography}{HWB{\etalchar{+}}10}
 
-\bibitem{ashbolt_microbial_2004}
+\bibitem[Ash04]{ashbolt_microbial_2004}
 Nicholas~John Ashbolt.
 \newblock Microbial contamination of drinking water and disease outcomes in
   developing regions.
 \newblock {\em Toxicology}, 198(1-3):229--238, May 2004.
 
-\bibitem{united_nations_economic_and_social_council_progress_2017}
+\bibitem[Cou17a]{united_nations_economic_and_social_council_progress_2017}
 United Nations Economic {and}~Social Council.
 \newblock Progress towards the {Sustainable} {Development} {Goals}.
 \newblock Technical report, United Nations, November 2017.
 
-\bibitem{united_nations_economic_and_social_council_progress_2017-1}
+\bibitem[Cou17b]{united_nations_economic_and_social_council_progress_2017-1}
 United Nations Economic {and}~Social Council.
 \newblock Progress towards the {Sustainable} {Development} {Goals}.
 \newblock Technical report, United Nations, March 2017.
 
-\bibitem{gwt_global_nodate}
+\bibitem[GWT]{gwt_global_nodate}
 GWT.
 \newblock Global {Water} {Tool}.
 
-\bibitem{hanafi_rift_2010}
+\bibitem[HWB{\etalchar{+}}10]{hanafi_rift_2010}
 Hanafi Hanafi, Marion Warigia, Robert~F. Breiman, Marvin Godsey, David Hoel,
   Joel Lutomiah, Hellen Koka, Monica O'Guinn, Barry Miller, Caroline Ochieng,
   John~S. Lee, David Schnabel, Elizabeth Kioko, Jason Richardson, and Rosemary
@@ -30,59 +31,59 @@ Hanafi Hanafi, Marion Warigia, Robert~F. Breiman, Marvin Godsey, David Hoel,
 \newblock {\em The American Journal of Tropical Medicine and Hygiene},
   83(2\_Suppl):28--37, August 2010.
 
-\bibitem{lefevre_repartition_nodate}
+\bibitem[Lef]{lefevre_repartition_nodate}
 Soumis par~Thierry Lefèvre.
 \newblock La répartition de l’eau sur la {Terre} {\textbar} {Planète}
   viable {\textbar} {Les} résultats de la recherche en science du
   développement durable.
 
-\bibitem{united_nations_goal_nodate}
-United Nations.
-\newblock Goal 13 .:. {Sustainable} {Development} {Knowledge} {Platform}.
-
-\bibitem{united_nations_goal_nodate-2}
-United Nations.
-\newblock Goal 14 .:. {Sustainable} {Development} {Knowledge} {Platform}.
-
-\bibitem{united_nations_goal_nodate-3}
-United Nations.
-\newblock Goal 15 .:. {Sustainable} {Development} {Knowledge} {Platform}.
-
-\bibitem{united_nations_goal_nodate-5}
-United Nations.
-\newblock Goal 3 .:. {Sustainable} {Development} {Knowledge} {Platform}.
-
-\bibitem{united_nations_goal_nodate-4}
-United Nations.
-\newblock Goal 6 .:. {Sustainable} {Development} {Knowledge} {Platform}.
-
-\bibitem{united_nations_millennium_2009}
+\bibitem[Nat09]{united_nations_millennium_2009}
 United Nations.
 \newblock {\em Millennium {Development} {Goals} {Report} 2009 ({Includes} the
   2009 {Progress} {Chart})}.
 \newblock United Nations Publications, 2009.
 \newblock Google-Books-ID: wDro5dHnTk4C.
 
-\bibitem{rana_water_2017}
+\bibitem[RN17]{rana_water_2017}
 Himanshu Rana and Nirvair Neeru.
 \newblock Water {Detection} using {Satellite} {Images} {Obtained} through
   {Remote} {Sensing}.
 \newblock {\em Advances in Computational Sciences and Technology},
   10(6):1923--1940, 2017.
 
-\bibitem{texeira_gastroenteritis_1993}
+\bibitem[TCC{\etalchar{+}}93]{texeira_gastroenteritis_1993}
 Maria da Glória Lima~Cruz Texeira, Maria da Conceiçao~Nascimento Costa, Vera
   Lúcia Pires~de Carvalho, Manuel dos~Santos Pereira, and Eduardo Hage.
 \newblock Gastroenteritis epidemic in the area of the {Itaparica} {Dam},
   {Bahia}, {Brazil}.
-\newblock {\em PAHO}, page~9, 1993.
+\newblock {\em PAHO}, pages 244--253, 1993.
 
-\bibitem{wikipedia_millennium_2017}
+\bibitem[unia]{united_nations_goal_nodate}
+Goal 13 .:. {Sustainable} {Development} {Knowledge} {Platform}.
+\newblock \url{https://sustainabledevelopment.un.org/sdg13}.
+
+\bibitem[unib]{united_nations_goal_nodate-2}
+Goal 14 .:. {Sustainable} {Development} {Knowledge} {Platform}.
+\newblock \url{https://sustainabledevelopment.un.org/sdg14}.
+
+\bibitem[unic]{united_nations_goal_nodate-3}
+Goal 15 .:. {Sustainable} {Development} {Knowledge} {Platform}.
+\newblock \url{https://sustainabledevelopment.un.org/sdg15}.
+
+\bibitem[unid]{united_nations_goal_nodate-5}
+Goal 3 .:. {Sustainable} {Development} {Knowledge} {Platform}.
+\newblock \url{https://sustainabledevelopment.un.org/sdg3}.
+
+\bibitem[unie]{united_nations_goal_nodate-4}
+Goal 6 .:. {Sustainable} {Development} {Knowledge} {Platform}.
+\newblock \url{https://sustainabledevelopment.un.org/sdg6}.
+
+\bibitem[Wik17a]{wikipedia_millennium_2017}
 Wikipedia.
 \newblock Millennium {Development} {Goals}, September 2017.
 \newblock Page Version ID: 799269006.
 
-\bibitem{wikipedia_sustainable_2017}
+\bibitem[Wik17b]{wikipedia_sustainable_2017}
 Wikipedia.
 \newblock Sustainable {Development} {Goals}, October 2017.
 \newblock Page Version ID: 803484076.

@@ -17,6 +17,11 @@ United Nations Economic {and}~Social Council.
 \newblock Progress towards the {Sustainable} {Development} {Goals}.
 \newblock Technical report, United Nations, March 2017.
 
+\bibitem[DR08]{diaz_spreading_2008}
+Robert~J. Diaz and Rutger Rosenberg.
+\newblock Spreading dead zones and consequences for marine ecosystems.
+\newblock {\em science}, 321(5891):926--929, 2008.
+
 \bibitem[GWT]{gwt_global_nodate}
 GWT.
 \newblock Global {Water} {Tool}.
@@ -36,6 +41,31 @@ Soumis par~Thierry Lefèvre.
 \newblock La répartition de l’eau sur la {Terre} {\textbar} {Planète}
   viable {\textbar} {Les} résultats de la recherche en science du
   développement durable.
+
+\bibitem[Nata]{united_nations_goal_nodate}
+United Nations.
+\newblock Goal 13 .:. {Sustainable} {Development} {Knowledge} {Platform}.
+
+\bibitem[Natb]{united_nations_goal_nodate-2}
+United Nations.
+\newblock Goal 14 .:. {Sustainable} {Development} {Knowledge} {Platform}.
+
+\bibitem[Natc]{united_nations_goal_nodate-3}
+United Nations.
+\newblock Goal 15 .:. {Sustainable} {Development} {Knowledge} {Platform}.
+
+\bibitem[Natd]{united_nations_goal_nodate-5}
+United Nations.
+\newblock Goal 3 .:. {Sustainable} {Development} {Knowledge} {Platform}.
+
+\bibitem[Nate]{united_nations_goal_nodate-4}
+United Nations.
+\newblock Goal 6 .:. {Sustainable} {Development} {Knowledge} {Platform}.
+
+\bibitem[Natf]{united_nations_high-level_nodate}
+United Nations.
+\newblock High-level {Political} {Forum} .:. {Sustainable} {Development}
+  {Knowledge} {Platform}.
 
 \bibitem[Nat09]{united_nations_millennium_2009}
 United Nations.
@@ -57,26 +87,6 @@ Maria da Glória Lima~Cruz Texeira, Maria da Conceiçao~Nascimento Costa, Vera
 \newblock Gastroenteritis epidemic in the area of the {Itaparica} {Dam},
   {Bahia}, {Brazil}.
 \newblock {\em PAHO}, pages 244--253, 1993.
-
-\bibitem[unia]{united_nations_goal_nodate}
-Goal 13 .:. {Sustainable} {Development} {Knowledge} {Platform}.
-\newblock \url{https://sustainabledevelopment.un.org/sdg13}.
-
-\bibitem[unib]{united_nations_goal_nodate-2}
-Goal 14 .:. {Sustainable} {Development} {Knowledge} {Platform}.
-\newblock \url{https://sustainabledevelopment.un.org/sdg14}.
-
-\bibitem[unic]{united_nations_goal_nodate-3}
-Goal 15 .:. {Sustainable} {Development} {Knowledge} {Platform}.
-\newblock \url{https://sustainabledevelopment.un.org/sdg15}.
-
-\bibitem[unid]{united_nations_goal_nodate-5}
-Goal 3 .:. {Sustainable} {Development} {Knowledge} {Platform}.
-\newblock \url{https://sustainabledevelopment.un.org/sdg3}.
-
-\bibitem[unie]{united_nations_goal_nodate-4}
-Goal 6 .:. {Sustainable} {Development} {Knowledge} {Platform}.
-\newblock \url{https://sustainabledevelopment.un.org/sdg6}.
 
 \bibitem[Wik17a]{wikipedia_millennium_2017}
 Wikipedia.

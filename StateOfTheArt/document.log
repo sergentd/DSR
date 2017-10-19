@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.12.17)  19 OCT 2017 12:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.12.17)  19 OCT 2017 14:55
 entering extended mode
 **./document.tex
 (document.tex
@@ -128,25 +128,124 @@ LaTeX Font Info:    Redeclaring math symbol \Omega on input line 372.
 \c@remark=\count115
 \headlineindent=\dimen124
 )
+(D:\Programmes\MiKTEX\tex\generic\oberdiek\ifpdf.sty
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+(D:\Programmes\MiKTEX\tex\latex\amsmath\amsmath.sty
+Package: amsmath 2016/06/28 v2.15d AMS math features
+\@mathmargin=\skip45
+
+For additional information on amsmath, use the `?' option.
+(D:\Programmes\MiKTEX\tex\latex\amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(D:\Programmes\MiKTEX\tex\latex\amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen125
+))
+(D:\Programmes\MiKTEX\tex\latex\amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen126
+)
+(D:\Programmes\MiKTEX\tex\latex\amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count116
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count117
+\leftroot@=\count118
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count119
+\DOTSCASE@=\count120
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box54
+\strutbox@=\box55
+\big@size=\dimen127
+LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
+
+
+Package amsmath Warning: Unable to redefine math accent \vec.
+
+\macc@depth=\count121
+\c@MaxMatrixCols=\count122
+\dotsspace@=\muskip10
+\c@parentequation=\count123
+\dspbrk@lvl=\count124
+\tag@help=\toks19
+\row@=\count125
+\column@=\count126
+\maxfields@=\count127
+\andhelp@=\toks20
+\eqnshift@=\dimen128
+\alignsep@=\dimen129
+\tagshift@=\dimen130
+\tagwidth@=\dimen131
+\totwidth@=\dimen132
+\lineht@=\dimen133
+\@envbody=\toks21
+\multlinegap=\skip46
+\multlinetaggap=\skip47
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2739.
+LaTeX Info: Redefining \] on input line 2740.
+) (D:\Programmes\MiKTEX\tex\latex\amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(D:\Programmes\MiKTEX\tex\latex\amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(D:\Programmes\MiKTEX\tex\latex\algorithms\algorithmic.sty
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+
+(D:\Programmes\MiKTEX\tex\latex\base\ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(D:\Programmes\MiKTEX\tex\latex\graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks23
+)
+\c@ALC@unique=\count128
+\c@ALC@line=\count129
+\c@ALC@rem=\count130
+\c@ALC@depth=\count131
+\ALC@tlm=\skip48
+\algorithmicindent=\skip49
+)
+(D:\Programmes\MiKTEX\tex\latex\tools\array.sty
+Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen134
+\extrarowheight=\dimen135
+\NC@list=\toks24
+\extratabsurround=\skip50
+\backup@length=\skip51
+)
 (D:\Programmes\MiKTEX\tex\latex\subfigure\subfigure.sty
 Package: subfigure 2002/07/30 v2.1.4 subfigure package
-\subfigtopskip=\skip45
-\subfigcapskip=\skip46
-\subfigcaptopadj=\dimen125
-\subfigbottomskip=\skip47
-\subfigcapmargin=\dimen126
-\subfiglabelskip=\skip48
-\c@subfigure=\count116
-\c@lofdepth=\count117
-\c@subtable=\count118
-\c@lotdepth=\count119
+\subfigtopskip=\skip52
+\subfigcapskip=\skip53
+\subfigcaptopadj=\dimen136
+\subfigbottomskip=\skip54
+\subfigcapmargin=\dimen137
+\subfiglabelskip=\skip55
+\c@subfigure=\count132
+\c@lofdepth=\count133
+\c@subtable=\count134
+\c@lotdepth=\count135
 
 ****************************************
 * Local config file subfigure.cfg used *
 ****************************************
 (D:\Programmes\MiKTEX\tex\latex\subfigure\subfigure.cfg)
-\subfig@top=\skip49
-\subfig@bottom=\skip50
+\subfig@top=\skip56
+\subfig@bottom=\skip57
 )
 (D:\Programmes\MiKTEX\tex\latex\base\fixltx2e.sty
 Package: fixltx2e 2015/06/22 v2.0b fixes to LaTeX (obsolete)
@@ -159,16 +258,12 @@ Package fixltx2e Warning: fixltx2e is not required with releases after 2015
 ) (D:\Programmes\MiKTEX\tex\latex\sttools\stfloats.sty
 Package: stfloats 2017/03/27 v3.3 Improve float mechanism and baselineskip sett
 ings
-\@dblbotnum=\count120
-\c@dblbotnumber=\count121
+\@dblbotnum=\count136
+\c@dblbotnumber=\count137
 )
 (D:\Programmes\MiKTEX\tex\latex\graphics\graphicx.sty
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-(D:\Programmes\MiKTEX\tex\latex\graphics\keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks18
-)
 (D:\Programmes\MiKTEX\tex\latex\graphics\graphics.sty
 Package: graphics 2016/07/10 v1.0t Standard LaTeX Graphics (DPC,SPQR)
 
@@ -189,93 +284,22 @@ Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 (D:\Programmes\MiKTEX\tex\generic\oberdiek\ltxcmds.sty
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
-\Gread@gobject=\count122
+\Gread@gobject=\count138
 ))
-\Gin@req@height=\dimen127
-\Gin@req@width=\dimen128
+\Gin@req@height=\dimen138
+\Gin@req@width=\dimen139
 )
-(D:\Programmes\MiKTEX\tex\latex\amsmath\amsmath.sty
-Package: amsmath 2016/06/28 v2.15d AMS math features
-\@mathmargin=\skip51
-
-For additional information on amsmath, use the `?' option.
-(D:\Programmes\MiKTEX\tex\latex\amsmath\amstext.sty
-Package: amstext 2000/06/29 v2.01 AMS text
-
-(D:\Programmes\MiKTEX\tex\latex\amsmath\amsgen.sty
-File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks19
-\ex@=\dimen129
-))
-(D:\Programmes\MiKTEX\tex\latex\amsmath\amsbsy.sty
-Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen130
-)
-(D:\Programmes\MiKTEX\tex\latex\amsmath\amsopn.sty
-Package: amsopn 2016/03/08 v2.02 operator names
-)
-\inf@bad=\count123
-LaTeX Info: Redefining \frac on input line 199.
-\uproot@=\count124
-\leftroot@=\count125
-LaTeX Info: Redefining \overline on input line 297.
-\classnum@=\count126
-\DOTSCASE@=\count127
-LaTeX Info: Redefining \ldots on input line 394.
-LaTeX Info: Redefining \dots on input line 397.
-LaTeX Info: Redefining \cdots on input line 518.
-\Mathstrutbox@=\box54
-\strutbox@=\box55
-\big@size=\dimen131
-LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
-
-
-Package amsmath Warning: Unable to redefine math accent \vec.
-
-\macc@depth=\count128
-\c@MaxMatrixCols=\count129
-\dotsspace@=\muskip10
-\c@parentequation=\count130
-\dspbrk@lvl=\count131
-\tag@help=\toks20
-\row@=\count132
-\column@=\count133
-\maxfields@=\count134
-\andhelp@=\toks21
-\eqnshift@=\dimen132
-\alignsep@=\dimen133
-\tagshift@=\dimen134
-\tagwidth@=\dimen135
-\totwidth@=\dimen136
-\lineht@=\dimen137
-\@envbody=\toks22
-\multlinegap=\skip52
-\multlinetaggap=\skip53
-\mathdisplay@stack=\toks23
-LaTeX Info: Redefining \[ on input line 2739.
-LaTeX Info: Redefining \] on input line 2740.
-) (D:\Programmes\MiKTEX\tex\latex\amsfonts\amssymb.sty
-Package: amssymb 2013/01/14 v3.01 AMS font symbols
-
-(D:\Programmes\MiKTEX\tex\latex\amsfonts\amsfonts.sty
-Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\symAMSa=\mathgroup4
-\symAMSb=\mathgroup5
-LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
-(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-))
 (D:\Programmes\MiKTEX\tex\latex\natbib\natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip54
-\bibsep=\skip55
+\bibhang=\skip58
+\bibsep=\skip59
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count135
+\c@NAT@ctr=\count139
 )
 (D:\Programmes\MiKTEX\tex\latex\base\inputenc.sty
 Package: inputenc 2015/03/17 v1.2c Input encoding file
-\inpenc@prehook=\toks24
-\inpenc@posthook=\toks25
+\inpenc@prehook=\toks25
+\inpenc@posthook=\toks26
 
 (D:\Programmes\MiKTEX\tex\latex\base\utf8.def
 File: utf8.def 2016/02/28 v1.1s UTF-8 support for inputenc
@@ -608,29 +632,29 @@ Language: frenchb 2016/05/14 v3.2c French support from the babel system
 
 (D:\Programmes\MiKTEX\tex\generic\babel\babel.def
 File: babel.def 2016/04/23 3.9r Babel common definitions
-\babel@savecnt=\count136
-\U@D=\dimen138
+\babel@savecnt=\count140
+\U@D=\dimen140
 )
 \l@acadian = a dialect from \language\l@french 
 \l@canadien = a dialect from \language\l@french 
-\FB@nonchar=\count137
-\FBcolonskip=\skip56
-\FBthinskip=\skip57
+\FB@nonchar=\count141
+\FBcolonskip=\skip60
+\FBthinskip=\skip61
 Package babel Info: Making : an active character on input line 365.
 Package babel Info: Making ; an active character on input line 366.
 Package babel Info: Making ! an active character on input line 367.
 Package babel Info: Making ? an active character on input line 368.
-\FBguillskip=\skip58
-\FBguill@level=\count138
-\FB@everypar=\toks26
-\FB@Mht=\dimen139
-\std@mcc=\count139
-\dec@mcc=\count140
-\listindentFB=\skip59
-\labelwidthFB=\skip60
-\leftmarginFB=\skip61
-\parindentFFN=\dimen140
-\FBfnindent=\skip62
+\FBguillskip=\skip62
+\FBguill@level=\count142
+\FB@everypar=\toks27
+\FB@Mht=\dimen141
+\std@mcc=\count143
+\dec@mcc=\count144
+\listindentFB=\skip63
+\labelwidthFB=\skip64
+\leftmarginFB=\skip65
+\parindentFFN=\dimen142
+\FBfnindent=\skip66
 )
 
 Package babel Warning: Last declared language option is `',
@@ -643,9 +667,6 @@ Package babel Warning: Last declared language option is `',
 (D:\Programmes\MiKTEX\tex\latex\geometry\geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-(D:\Programmes\MiKTEX\tex\generic\oberdiek\ifpdf.sty
-Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
-)
 (D:\Programmes\MiKTEX\tex\generic\oberdiek\ifvtex.sty
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
@@ -653,18 +674,18 @@ Package ifvtex Info: VTeX not detected.
 (D:\Programmes\MiKTEX\tex\generic\ifxetex\ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count141
-\Gm@cntv=\count142
-\c@Gm@tempcnt=\count143
-\Gm@bindingoffset=\dimen141
-\Gm@wd@mp=\dimen142
-\Gm@odd@mp=\dimen143
-\Gm@even@mp=\dimen144
-\Gm@layoutwidth=\dimen145
-\Gm@layoutheight=\dimen146
-\Gm@layouthoffset=\dimen147
-\Gm@layoutvoffset=\dimen148
-\Gm@dimlist=\toks27
+\Gm@cnth=\count145
+\Gm@cntv=\count146
+\c@Gm@tempcnt=\count147
+\Gm@bindingoffset=\dimen143
+\Gm@wd@mp=\dimen144
+\Gm@odd@mp=\dimen145
+\Gm@even@mp=\dimen146
+\Gm@layoutwidth=\dimen147
+\Gm@layoutheight=\dimen148
+\Gm@layouthoffset=\dimen149
+\Gm@layoutvoffset=\dimen150
+\Gm@dimlist=\toks28
 
 (D:\Programmes\MiKTEX\tex\latex\geometry\geometry.cfg))
 
@@ -674,31 +695,31 @@ LaTeX Warning: Unused global option(s):
 (document.aux)
 \openout1 = `document.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 61.
-LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
  (D:\Programmes\MiKTEX\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count144
-\scratchdimen=\dimen149
+\scratchcounter=\count148
+\scratchdimen=\dimen151
 \scratchbox=\box56
-\nofMPsegments=\count145
-\nofMParguments=\count146
-\everyMPshowfont=\toks28
-\MPscratchCnt=\count147
-\MPscratchDim=\dimen150
-\MPnumerator=\count148
-\makeMPintoPDFobject=\count149
-\everyMPtoPDFconversion=\toks29
+\nofMPsegments=\count149
+\nofMParguments=\count150
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count151
+\MPscratchDim=\dimen152
+\MPnumerator=\count152
+\makeMPintoPDFobject=\count153
+\everyMPtoPDFconversion=\toks30
 ) (D:\Programmes\MiKTEX\tex\generic\oberdiek\pdftexcmds.sty
 Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
 )
@@ -741,16 +762,16 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-LaTeX Info: Redefining \degres on input line 61.
+LaTeX Info: Redefining \degres on input line 63.
 
 
 Package frenchb.ldf Warning: Figures' and tables' captions might look like
 (frenchb.ldf)                `Figure 1:' which is wrong in French.
 (frenchb.ldf)                Check your class or packages to change this;
-(frenchb.ldf)                reported on input line 61.
+(frenchb.ldf)                reported on input line 63.
 
-LaTeX Info: Redefining \dots on input line 61.
-LaTeX Info: Redefining \up on input line 61.
+LaTeX Info: Redefining \dots on input line 63.
+LaTeX Info: Redefining \up on input line 63.
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -785,11 +806,11 @@ LaTeX Info: Redefining \up on input line 61.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 84.
+LaTeX Font Info:    Try loading font information for U+msa on input line 86.
 (D:\Programmes\MiKTEX\tex\latex\amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 84.
+LaTeX Font Info:    Try loading font information for U+msb on input line 86.
 
 (D:\Programmes\MiKTEX\tex\latex\amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -797,43 +818,56 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 <mdgs-full.png, id=1, 680.5425pt x 339.2675pt>
 File: mdgs-full.png Graphic file (type png)
  <use mdgs-full.png>
-Package pdftex.def Info: mdgs-full.png used on input line 100.
+Package pdftex.def Info: mdgs-full.png used on input line 102.
 (pdftex.def)             Requested size: 200.0pt x 99.70512pt.
 
 <sdgs.jpg, id=2, 652.4375pt x 433.62pt>
 File: sdgs.jpg Graphic file (type jpg)
  <use sdgs.jpg>
-Package pdftex.def Info: sdgs.jpg used on input line 108.
+Package pdftex.def Info: sdgs.jpg used on input line 110.
 (pdftex.def)             Requested size: 200.0pt x 132.92548pt.
  [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./mdgs-full.png>] [2 <./s
-dgs.jpg>] [3]
-(document.bbl [4] [5]) [6
+dgs.jpg>]
+<marine-life-dead-zones.png, id=18, 833.1125pt x 696.6025pt>
+File: marine-life-dead-zones.png Graphic file (type png)
 
-] (document.aux) ) 
+<use marine-life-dead-zones.png>
+Package pdftex.def Info: marine-life-dead-zones.png used on input line 155.
+(pdftex.def)             Requested size: 300.0pt x 250.84048pt.
+
+Overfull \hbox (1.56557pt too wide) in paragraph at lines 146--159
+\T1/cmr/m/n/10 2000, 82 pourcent de la po-pu-la-tion dis-pose d'une source d'ea
+u amé-na-gée contre 91 pourcent
+ []
+
+[3] [4 <./marine-life-dead-zones.png (PNG copy)>] (document.bbl [5]) [6
+
+]
+(document.aux) ) 
 Here is how much of TeX's memory you used:
- 5453 strings out of 493334
- 70360 string characters out of 3142273
- 154427 words of memory out of 3000000
- 8871 multiletter control sequences out of 15000+200000
+ 5654 strings out of 493334
+ 72881 string characters out of 3142273
+ 158018 words of memory out of 3000000
+ 9062 multiletter control sequences out of 15000+200000
  12877 words of font info for 32 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  40i,6n,30p,771b,439s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\djava_000\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
-\jknappen\ec\dpi600\ecti1000.pk> <C:\Users\djava_000\AppData\Local\MiKTeX\2.9\f
-onts\pk\ljfour\jknappen\ec\dpi600\ecxc0900.pk> <C:\Users\djava_000\AppData\Loca
-l\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> <C:\Users\djava_00
-0\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1000.pk> <C:\
-Users\djava_000\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecb
-x0900.pk> <C:\Users\djava_000\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen
-\ec\dpi600\ecrm0900.pk> <C:\Users\djava_000\AppData\Local\MiKTeX\2.9\fonts\pk\l
-jfour\jknappen\ec\dpi600\ecrm1000.pk> <C:\Users\djava_000\AppData\Local\MiKTeX\
-2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk><D:/Programmes/MiKTEX/fonts/
-type1/public/amsfonts/cm/cmr7.pfb>
-Output written on document.pdf (6 pages, 212716 bytes).
+ <C:\Users\djava_000\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\j
+knappen\ec\dpi600\ecti1000.pk> <C:\Users\djava_000\AppData\Local\MiKTeX\2.9\fon
+ts\pk\ljfour\jknappen\ec\dpi600\ecxc0900.pk> <C:\Users\djava_000\AppData\Local\
+MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> <C:\Users\djava_000\
+AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1000.pk> <C:\Us
+ers\djava_000\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx0
+900.pk> <C:\Users\djava_000\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\e
+c\dpi600\ecrm0900.pk> <C:\Users\djava_000\AppData\Local\MiKTeX\2.9\fonts\pk\ljf
+our\jknappen\ec\dpi600\ecrm1000.pk> <C:\Users\djava_000\AppData\Local\MiKTeX\2.
+9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk><D:/Programmes/MiKTEX/fonts/ty
+pe1/public/amsfonts/cm/cmr7.pfb>
+Output written on document.pdf (6 pages, 288779 bytes).
 PDF statistics:
- 341 PDF objects out of 1000 (max. 8388607)
+ 354 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 

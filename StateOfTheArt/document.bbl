@@ -1,5 +1,5 @@
 \newcommand{\etalchar}[1]{$^{#1}$}
-\begin{thebibliography}{HWB{\etalchar{+}}10}
+\begin{thebibliography}{HGMH{\etalchar{+}}07}
 
 \bibitem[APW{\etalchar{+}}]{andersen_long-term_nodate}
 Zorana~J. Andersen, Marie Pedersen, Gudrun Weinmayr, Massimo Stafoggia, Claudia
@@ -42,6 +42,15 @@ Robert~J. Diaz and Rutger Rosenberg.
 \bibitem[fSD]{world_business_council_for_sustainable_development_global_nodate}
 World Business~Council for Sustainable~Development.
 \newblock Global {Water} {Tool}.
+
+\bibitem[HGMH{\etalchar{+}}07]{hoegh-guldberg_coral_2007}
+O.~Hoegh-Guldberg, P.~J. Mumby, A.~J. Hooten, R.~S. Steneck, P.~Greenfield,
+  E.~Gomez, C.~D. Harvell, P.~F. Sale, A.~J. Edwards, K.~Caldeira, N.~Knowlton,
+  C.~M. Eakin, R.~Iglesias-Prieto, N.~Muthiga, R.~H. Bradbury, A.~Dubi, and
+  M.~E. Hatziolos.
+\newblock Coral {Reefs} {Under} {Rapid} {Climate} {Change} and {Ocean}
+  {Acidification}.
+\newblock {\em Science}, 318(5857):1737--1742, December 2007.
 
 \bibitem[HWB{\etalchar{+}}10]{hanafi_rift_2010}
 Hanafi Hanafi, Marion Warigia, Robert~F. Breiman, Marvin Godsey, David Hoel,

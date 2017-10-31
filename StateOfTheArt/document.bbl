@@ -1,6 +1,23 @@
 \newcommand{\etalchar}[1]{$^{#1}$}
 \begin{thebibliography}{HWB{\etalchar{+}}10}
 
+\bibitem[APW{\etalchar{+}}]{andersen_long-term_nodate}
+Zorana~J. Andersen, Marie Pedersen, Gudrun Weinmayr, Massimo Stafoggia, Claudia
+  Galassi, Jeanette~T. Jørgensen, Johan~N. Sommar, Bertil Forsberg, David
+  Olsson, Bente Oftedal, Gunn~Marit Aasvang, Per Schwarze, Andrei Pyko, Göran
+  Pershagen, Michal Korek, Ulf~De Faire, Claes-Göran Östenson, Laura
+  Fratiglioni, Kirsten~T. Eriksen, Aslak~H. Poulsen, Anne Tjønneland,
+  Elvira~Vaclavik Bräuner, Petra~H. Peeters, Bas Bueno-de Mesquita, Andrea
+  Jaensch, Gabriele Nagel, Alois Lang, Meng Wang, Ming-Yi Tsai, Sara Grioni,
+  Alessandro Marcon, Vittorio Krogh, Fulvio Ricceri, Carlotta Sacerdote, Enrica
+  Migliore, Roel Vermeulen, Ranjeet Sokhi, Menno Keuken, Kees de~Hoogh, Rob
+  Beelen, Paolo Vineis, Giulia Cesaroni, Bert Brunekreef, Gerard Hoek, and Ole
+  Raaschou-Nielsen.
+\newblock Long-term exposure to ambient air pollution and incidence of brain
+  tumor: the {European} {Study} of {Cohorts} for {Air} {Pollution} {Effects}
+  ({ESCAPE}).
+\newblock {\em Neuro-Oncology}.
+
 \bibitem[Ash04]{ashbolt_microbial_2004}
 Nicholas~John Ashbolt.
 \newblock Microbial contamination of drinking water and disease outcomes in
@@ -41,6 +58,14 @@ Soumis par~Thierry Lefèvre.
 \newblock La répartition de l’eau sur la {Terre} {\textbar} {Planète}
   viable {\textbar} {Les} résultats de la recherche en science du
   développement durable.
+
+\bibitem[LWF{\etalchar{+}}16]{liu_effects_2016}
+Peng Liu, Xining Wang, Jiayin Fan, Wenxin Xiao, and Yan Wang.
+\newblock Effects of {Air} {Pollution} on {Hospital} {Emergency} {Room}
+  {Visits} for {Respiratory} {Diseases}: {Urban}-{Suburban} {Differences} in
+  {Eastern} {China}.
+\newblock {\em International Journal of Environmental Research and Public
+  Health}, 13(3):341, March 2016.
 
 \bibitem[Nata]{united_nations_goal_nodate}
 United Nations.
@@ -87,6 +112,11 @@ Maria da Glória Lima~Cruz Texeira, Maria da Conceiçao~Nascimento Costa, Vera
 \newblock Gastroenteritis epidemic in the area of the {Itaparica} {Dam},
   {Bahia}, {Brazil}.
 \newblock {\em PAHO}, pages 244--253, 1993.
+
+\bibitem[Uni16]{yale_university_epi_2016}
+Yale University.
+\newblock {EPI} {Global} {Metrics} {For} {Environment}.
+\newblock Technical report, 2016.
 
 \bibitem[Wik17a]{wikipedia_millennium_2017}
 Wikipedia.

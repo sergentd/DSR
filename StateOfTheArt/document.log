@@ -1,44 +1,38 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.12.17)  12 JUL 2018 11:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6745 64-bit) (preloaded format=pdflatex 2018.7.16)  18 JUL 2018 18:53
 entering extended mode
 **./document.tex
 (document.tex
-LaTeX2e <2016/03/31> patch level 3
-Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
+LaTeX2e <2018-04-01> patch level 5
 (llncs.cls
 Document Class: llncs 2010/07/12 v2.17 
  LaTeX document class for Lecture Notes in Computer Science
-
-("C:\Users\djava_000\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.c
-ls"
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-
-("C:\Users\djava_000\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.cl
-o"
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo"
 File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
-\c@part=\count79
-\c@section=\count80
-\c@subsection=\count81
-\c@subsubsection=\count82
-\c@paragraph=\count83
-\c@subparagraph=\count84
-\c@figure=\count85
-\c@table=\count86
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("C:\Users\djava_000\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\multicol
-.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\multicol.sty"
 Package: multicol 2018/04/20 v1.8s multicolumn formatting (FMi)
-\c@tracingmulticols=\count87
+\c@tracingmulticols=\count88
 \mult@box=\box26
 \multicol@leftmargin=\dimen103
-\c@unbalance=\count88
-\c@collectmore=\count89
-\doublecol@number=\count90
-\multicoltolerance=\count91
-\multicolpretolerance=\count92
+\c@unbalance=\count89
+\c@collectmore=\count90
+\doublecol@number=\count91
+\multicoltolerance=\count92
+\multicolpretolerance=\count93
 \full@width=\dimen104
 \page@free=\dimen105
 \premulticols=\dimen106
@@ -69,22 +63,25 @@ Package: multicol 2018/04/20 v1.8s multicolumn formatting (FMi)
 \@tempa=\box47
 \@tempa=\box48
 \@tempa=\box49
-\c@columnbadness=\count93
-\c@finalcolumnbadness=\count94
+\c@columnbadness=\count94
+\c@finalcolumnbadness=\count95
 \last@try=\dimen109
 \multicolovershoot=\dimen110
 \multicolundershoot=\dimen111
 \mult@nat@firstbox=\box50
 \colbreak@box=\box51
-\mc@col@check@num=\count95
+\mc@col@check@num=\count96
 )
-("C:\Users\djava_000\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\alias
-cnt.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\aliascnt.sty"
 Package: aliascnt 2016/05/16 v1.4 Alias counters (HO)
 
-("C:\Users\djava_000\AppData\Local\Programs\MiKTeX 2.9\tex\latex\carlisle\remre
-set.sty"))
-\c@chapter=\count96
+("C:\Program Files\MiKTeX 2.9\tex\latex\carlisle\remreset.sty"
+
+Package remreset Warning: The remreset package is obsolete:
+(remreset)                \@removefomresset is defined.
+
+))
+\c@chapter=\count97
 LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 362.
 LaTeX Font Info:    Redeclaring math symbol \Delta on input line 363.
 LaTeX Font Info:    Redeclaring math symbol \Theta on input line 364.
@@ -106,11 +103,11 @@ LaTeX Font Info:    Redeclaring math symbol \Omega on input line 372.
 \tocparanum=\dimen119
 \tocparatotal=\dimen120
 \tocsubparanum=\dimen121
-\@tempcntc=\count97
+\@tempcntc=\count98
 \fnindent=\dimen122
-\c@@inst=\count98
-\c@@auth=\count99
-\c@auco=\count100
+\c@@inst=\count99
+\c@@auth=\count100
+\c@auco=\count101
 \instindent=\dimen123
 \authrun=\box52
 \authorrunning=\toks14
@@ -118,60 +115,52 @@ LaTeX Font Info:    Redeclaring math symbol \Omega on input line 372.
 \titrun=\box53
 \titlerunning=\toks16
 \toctitle=\toks17
-\c@theorem=\count101
-\c@case=\count102
-\c@conjecture=\count103
-\c@corollary=\count104
-\c@definition=\count105
-\c@example=\count106
-\c@exercise=\count107
-\c@lemma=\count108
-\c@note=\count109
-\c@problem=\count110
-\c@property=\count111
-\c@proposition=\count112
-\c@question=\count113
-\c@solution=\count114
-\c@remark=\count115
+\c@theorem=\count102
+\c@case=\count103
+\c@conjecture=\count104
+\c@corollary=\count105
+\c@definition=\count106
+\c@example=\count107
+\c@exercise=\count108
+\c@lemma=\count109
+\c@note=\count110
+\c@problem=\count111
+\c@property=\count112
+\c@proposition=\count113
+\c@question=\count114
+\c@solution=\count115
+\c@remark=\count116
 \headlineindent=\dimen124
-)
-("C:\Users\djava_000\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifp
-df.sty"
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
 Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 )
-("C:\Users\djava_000\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmat
-h.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
 Package: amsmath 2017/09/02 v2.17a AMS math features
 \@mathmargin=\skip45
 
 For additional information on amsmath, use the `?' option.
-
-("C:\Users\djava_000\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstex
-t.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
 Package: amstext 2000/06/29 v2.01 AMS text
 
-("C:\Users\djava_000\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen
-.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks18
 \ex@=\dimen125
 ))
-("C:\Users\djava_000\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy
-.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen126
 )
-("C:\Users\djava_000\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn
-.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count116
+\inf@bad=\count117
 LaTeX Info: Redefining \frac on input line 213.
-\uproot@=\count117
-\leftroot@=\count118
+\uproot@=\count118
+\leftroot@=\count119
 LaTeX Info: Redefining \overline on input line 375.
-\classnum@=\count119
-\DOTSCASE@=\count120
+\classnum@=\count120
+\DOTSCASE@=\count121
 LaTeX Info: Redefining \ldots on input line 472.
 LaTeX Info: Redefining \dots on input line 475.
 LaTeX Info: Redefining \cdots on input line 596.
@@ -184,15 +173,15 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 
 Package amsmath Warning: Unable to redefine math accent \vec.
 
-\macc@depth=\count121
-\c@MaxMatrixCols=\count122
+\macc@depth=\count122
+\c@MaxMatrixCols=\count123
 \dotsspace@=\muskip10
-\c@parentequation=\count123
-\dspbrk@lvl=\count124
+\c@parentequation=\count124
+\dspbrk@lvl=\count125
 \tag@help=\toks19
-\row@=\count125
-\column@=\count126
-\maxfields@=\count127
+\row@=\count126
+\column@=\count127
+\maxfields@=\count128
 \andhelp@=\toks20
 \eqnshift@=\dimen128
 \alignsep@=\dimen129
@@ -206,39 +195,34 @@ Package amsmath Warning: Unable to redefine math accent \vec.
 \mathdisplay@stack=\toks22
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
-)
-("C:\Users\djava_000\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssy
-mb.sty"
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-("C:\Users\djava_000\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfo
-nts.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)) (D:\Programmes\MiKTEX\tex/latex\algorithms\algorithmic.sty
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\algorithms\algorithmic.sty"
 Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
 
-("C:\Users\djava_000\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.st
-y"
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-("C:\Users\djava_000\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyva
-l.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks23
 )
-\c@ALC@unique=\count128
-\c@ALC@line=\count129
-\c@ALC@rem=\count130
-\c@ALC@depth=\count131
+\c@ALC@unique=\count129
+\c@ALC@line=\count130
+\c@ALC@rem=\count131
+\c@ALC@depth=\count132
 \ALC@tlm=\skip48
 \algorithmicindent=\skip49
 )
-("C:\Users\djava_000\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\array.st
-y"
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
 Package: array 2018/04/30 v2.4h Tabular extension package (FMi)
 \col@sep=\dimen134
 \ar@mcellbox=\box56
@@ -247,7 +231,8 @@ Package: array 2018/04/30 v2.4h Tabular extension package (FMi)
 \extratabsurround=\skip50
 \backup@length=\skip51
 \ar@cellbox=\box57
-) (D:\Programmes\MiKTEX\tex/latex\subfigure\subfigure.sty
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\subfigure\subfigure.sty"
 Package: subfigure 2002/07/30 v2.1.4 subfigure package
 \subfigtopskip=\skip52
 \subfigcapskip=\skip53
@@ -255,20 +240,19 @@ Package: subfigure 2002/07/30 v2.1.4 subfigure package
 \subfigbottomskip=\skip54
 \subfigcapmargin=\dimen137
 \subfiglabelskip=\skip55
-\c@subfigure=\count132
-\c@lofdepth=\count133
-\c@subtable=\count134
-\c@lotdepth=\count135
+\c@subfigure=\count133
+\c@lofdepth=\count134
+\c@subtable=\count135
+\c@lotdepth=\count136
 
 ****************************************
 * Local config file subfigure.cfg used *
 ****************************************
-(D:\Programmes\MiKTEX\tex/latex\subfigure\subfigure.cfg)
+("C:\Program Files\MiKTeX 2.9\tex\latex\subfigure\subfigure.cfg")
 \subfig@top=\skip56
 \subfig@bottom=\skip57
 )
-("C:\Users\djava_000\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fixltx2e.
-sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\fixltx2e.sty"
 Package: fixltx2e 2016/12/29 v2.1a fixes to LaTeX (obsolete)
 Applying: [2015/01/01] Old fixltx2e package on input line 46.
 
@@ -278,431 +262,91 @@ Package fixltx2e Warning: fixltx2e is not required with releases after 2015
 (fixltx2e)                See the latexrelease package for details.
 
 Already applied: [0000/00/00] Old fixltx2e package on input line 53.
-) (D:\Programmes\MiKTEX\tex/latex\sttools\stfloats.sty
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\sttools\stfloats.sty"
 Package: stfloats 2017/03/27 v3.3 Improve float mechanism and baselineskip sett
 ings
-\@dblbotnum=\count136
-\c@dblbotnumber=\count137
+\@dblbotnum=\count137
+\c@dblbotnumber=\count138
 )
-("C:\Users\djava_000\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graph
-icx.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\djava_000\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graph
-ics.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\djava_000\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.
-sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Users\djava_000\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\g
-raphics.cfg"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-("C:\Users\djava_000\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\p
-dftex.def"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen138
 \Gin@req@width=\dimen139
-) (D:\Programmes\MiKTEX\tex/latex\natbib\natbib.sty
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\natbib\natbib.sty"
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip58
 \bibsep=\skip59
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count138
+\c@NAT@ctr=\count139
 )
-("C:\Users\djava_000\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.
-sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
 Package: inputenc 2018/04/06 v1.3b Input encoding file
 \inpenc@prehook=\toks25
 \inpenc@posthook=\toks26
-
-("C:\Users\djava_000\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\utf8.def"
-File: utf8.def 2018/04/05 v1.2c UTF-8 support for inputenc
-Now handling font encoding OML ...
-... no UTF-8 mapping file for font encoding OML
-Now handling font encoding T1 ...
-... processing UTF-8 mapping file for font encoding T1
-("C:\Users\djava_000\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.dfu
-"
-File: t1enc.dfu 2018/04/05 v1.2c UTF-8 support for inputenc
-   defining Unicode char U+00A0 (decimal 160)
-   defining Unicode char U+00A1 (decimal 161)
-   defining Unicode char U+00A3 (decimal 163)
-   defining Unicode char U+00AB (decimal 171)
-   defining Unicode char U+00AD (decimal 173)
-   defining Unicode char U+00BB (decimal 187)
-   defining Unicode char U+00BF (decimal 191)
-   defining Unicode char U+00C0 (decimal 192)
-   defining Unicode char U+00C1 (decimal 193)
-   defining Unicode char U+00C2 (decimal 194)
-   defining Unicode char U+00C3 (decimal 195)
-   defining Unicode char U+00C4 (decimal 196)
-   defining Unicode char U+00C5 (decimal 197)
-   defining Unicode char U+00C6 (decimal 198)
-   defining Unicode char U+00C7 (decimal 199)
-   defining Unicode char U+00C8 (decimal 200)
-   defining Unicode char U+00C9 (decimal 201)
-   defining Unicode char U+00CA (decimal 202)
-   defining Unicode char U+00CB (decimal 203)
-   defining Unicode char U+00CC (decimal 204)
-   defining Unicode char U+00CD (decimal 205)
-   defining Unicode char U+00CE (decimal 206)
-   defining Unicode char U+00CF (decimal 207)
-   defining Unicode char U+00D0 (decimal 208)
-   defining Unicode char U+00D1 (decimal 209)
-   defining Unicode char U+00D2 (decimal 210)
-   defining Unicode char U+00D3 (decimal 211)
-   defining Unicode char U+00D4 (decimal 212)
-   defining Unicode char U+00D5 (decimal 213)
-   defining Unicode char U+00D6 (decimal 214)
-   defining Unicode char U+00D8 (decimal 216)
-   defining Unicode char U+00D9 (decimal 217)
-   defining Unicode char U+00DA (decimal 218)
-   defining Unicode char U+00DB (decimal 219)
-   defining Unicode char U+00DC (decimal 220)
-   defining Unicode char U+00DD (decimal 221)
-   defining Unicode char U+00DE (decimal 222)
-   defining Unicode char U+00DF (decimal 223)
-   defining Unicode char U+00E0 (decimal 224)
-   defining Unicode char U+00E1 (decimal 225)
-   defining Unicode char U+00E2 (decimal 226)
-   defining Unicode char U+00E3 (decimal 227)
-   defining Unicode char U+00E4 (decimal 228)
-   defining Unicode char U+00E5 (decimal 229)
-   defining Unicode char U+00E6 (decimal 230)
-   defining Unicode char U+00E7 (decimal 231)
-   defining Unicode char U+00E8 (decimal 232)
-   defining Unicode char U+00E9 (decimal 233)
-   defining Unicode char U+00EA (decimal 234)
-   defining Unicode char U+00EB (decimal 235)
-   defining Unicode char U+00EC (decimal 236)
-   defining Unicode char U+00ED (decimal 237)
-   defining Unicode char U+00EE (decimal 238)
-   defining Unicode char U+00EF (decimal 239)
-   defining Unicode char U+00F0 (decimal 240)
-   defining Unicode char U+00F1 (decimal 241)
-   defining Unicode char U+00F2 (decimal 242)
-   defining Unicode char U+00F3 (decimal 243)
-   defining Unicode char U+00F4 (decimal 244)
-   defining Unicode char U+00F5 (decimal 245)
-   defining Unicode char U+00F6 (decimal 246)
-   defining Unicode char U+00F8 (decimal 248)
-   defining Unicode char U+00F9 (decimal 249)
-   defining Unicode char U+00FA (decimal 250)
-   defining Unicode char U+00FB (decimal 251)
-   defining Unicode char U+00FC (decimal 252)
-   defining Unicode char U+00FD (decimal 253)
-   defining Unicode char U+00FE (decimal 254)
-   defining Unicode char U+00FF (decimal 255)
-   defining Unicode char U+0100 (decimal 256)
-   defining Unicode char U+0101 (decimal 257)
-   defining Unicode char U+0102 (decimal 258)
-   defining Unicode char U+0103 (decimal 259)
-   defining Unicode char U+0104 (decimal 260)
-   defining Unicode char U+0105 (decimal 261)
-   defining Unicode char U+0106 (decimal 262)
-   defining Unicode char U+0107 (decimal 263)
-   defining Unicode char U+0108 (decimal 264)
-   defining Unicode char U+0109 (decimal 265)
-   defining Unicode char U+010A (decimal 266)
-   defining Unicode char U+010B (decimal 267)
-   defining Unicode char U+010C (decimal 268)
-   defining Unicode char U+010D (decimal 269)
-   defining Unicode char U+010E (decimal 270)
-   defining Unicode char U+010F (decimal 271)
-   defining Unicode char U+0110 (decimal 272)
-   defining Unicode char U+0111 (decimal 273)
-   defining Unicode char U+0112 (decimal 274)
-   defining Unicode char U+0113 (decimal 275)
-   defining Unicode char U+0114 (decimal 276)
-   defining Unicode char U+0115 (decimal 277)
-   defining Unicode char U+0116 (decimal 278)
-   defining Unicode char U+0117 (decimal 279)
-   defining Unicode char U+0118 (decimal 280)
-   defining Unicode char U+0119 (decimal 281)
-   defining Unicode char U+011A (decimal 282)
-   defining Unicode char U+011B (decimal 283)
-   defining Unicode char U+011C (decimal 284)
-   defining Unicode char U+011D (decimal 285)
-   defining Unicode char U+011E (decimal 286)
-   defining Unicode char U+011F (decimal 287)
-   defining Unicode char U+0120 (decimal 288)
-   defining Unicode char U+0121 (decimal 289)
-   defining Unicode char U+0122 (decimal 290)
-   defining Unicode char U+0123 (decimal 291)
-   defining Unicode char U+0124 (decimal 292)
-   defining Unicode char U+0125 (decimal 293)
-   defining Unicode char U+0128 (decimal 296)
-   defining Unicode char U+0129 (decimal 297)
-   defining Unicode char U+012A (decimal 298)
-   defining Unicode char U+012B (decimal 299)
-   defining Unicode char U+012C (decimal 300)
-   defining Unicode char U+012D (decimal 301)
-   defining Unicode char U+012E (decimal 302)
-   defining Unicode char U+012F (decimal 303)
-   defining Unicode char U+0130 (decimal 304)
-   defining Unicode char U+0131 (decimal 305)
-   defining Unicode char U+0132 (decimal 306)
-   defining Unicode char U+0133 (decimal 307)
-   defining Unicode char U+0134 (decimal 308)
-   defining Unicode char U+0135 (decimal 309)
-   defining Unicode char U+0136 (decimal 310)
-   defining Unicode char U+0137 (decimal 311)
-   defining Unicode char U+0139 (decimal 313)
-   defining Unicode char U+013A (decimal 314)
-   defining Unicode char U+013B (decimal 315)
-   defining Unicode char U+013C (decimal 316)
-   defining Unicode char U+013D (decimal 317)
-   defining Unicode char U+013E (decimal 318)
-   defining Unicode char U+0141 (decimal 321)
-   defining Unicode char U+0142 (decimal 322)
-   defining Unicode char U+0143 (decimal 323)
-   defining Unicode char U+0144 (decimal 324)
-   defining Unicode char U+0145 (decimal 325)
-   defining Unicode char U+0146 (decimal 326)
-   defining Unicode char U+0147 (decimal 327)
-   defining Unicode char U+0148 (decimal 328)
-   defining Unicode char U+014A (decimal 330)
-   defining Unicode char U+014B (decimal 331)
-   defining Unicode char U+014C (decimal 332)
-   defining Unicode char U+014D (decimal 333)
-   defining Unicode char U+014E (decimal 334)
-   defining Unicode char U+014F (decimal 335)
-   defining Unicode char U+0150 (decimal 336)
-   defining Unicode char U+0151 (decimal 337)
-   defining Unicode char U+0152 (decimal 338)
-   defining Unicode char U+0153 (decimal 339)
-   defining Unicode char U+0154 (decimal 340)
-   defining Unicode char U+0155 (decimal 341)
-   defining Unicode char U+0156 (decimal 342)
-   defining Unicode char U+0157 (decimal 343)
-   defining Unicode char U+0158 (decimal 344)
-   defining Unicode char U+0159 (decimal 345)
-   defining Unicode char U+015A (decimal 346)
-   defining Unicode char U+015B (decimal 347)
-   defining Unicode char U+015C (decimal 348)
-   defining Unicode char U+015D (decimal 349)
-   defining Unicode char U+015E (decimal 350)
-   defining Unicode char U+015F (decimal 351)
-   defining Unicode char U+0160 (decimal 352)
-   defining Unicode char U+0161 (decimal 353)
-   defining Unicode char U+0162 (decimal 354)
-   defining Unicode char U+0163 (decimal 355)
-   defining Unicode char U+0164 (decimal 356)
-   defining Unicode char U+0165 (decimal 357)
-   defining Unicode char U+0168 (decimal 360)
-   defining Unicode char U+0169 (decimal 361)
-   defining Unicode char U+016A (decimal 362)
-   defining Unicode char U+016B (decimal 363)
-   defining Unicode char U+016C (decimal 364)
-   defining Unicode char U+016D (decimal 365)
-   defining Unicode char U+016E (decimal 366)
-   defining Unicode char U+016F (decimal 367)
-   defining Unicode char U+0170 (decimal 368)
-   defining Unicode char U+0171 (decimal 369)
-   defining Unicode char U+0172 (decimal 370)
-   defining Unicode char U+0173 (decimal 371)
-   defining Unicode char U+0174 (decimal 372)
-   defining Unicode char U+0175 (decimal 373)
-   defining Unicode char U+0176 (decimal 374)
-   defining Unicode char U+0177 (decimal 375)
-   defining Unicode char U+0178 (decimal 376)
-   defining Unicode char U+0179 (decimal 377)
-   defining Unicode char U+017A (decimal 378)
-   defining Unicode char U+017B (decimal 379)
-   defining Unicode char U+017C (decimal 380)
-   defining Unicode char U+017D (decimal 381)
-   defining Unicode char U+017E (decimal 382)
-   defining Unicode char U+01CD (decimal 461)
-   defining Unicode char U+01CE (decimal 462)
-   defining Unicode char U+01CF (decimal 463)
-   defining Unicode char U+01D0 (decimal 464)
-   defining Unicode char U+01D1 (decimal 465)
-   defining Unicode char U+01D2 (decimal 466)
-   defining Unicode char U+01D3 (decimal 467)
-   defining Unicode char U+01D4 (decimal 468)
-   defining Unicode char U+01E2 (decimal 482)
-   defining Unicode char U+01E3 (decimal 483)
-   defining Unicode char U+01E6 (decimal 486)
-   defining Unicode char U+01E7 (decimal 487)
-   defining Unicode char U+01E8 (decimal 488)
-   defining Unicode char U+01E9 (decimal 489)
-   defining Unicode char U+01EA (decimal 490)
-   defining Unicode char U+01EB (decimal 491)
-   defining Unicode char U+01F0 (decimal 496)
-   defining Unicode char U+01F4 (decimal 500)
-   defining Unicode char U+01F5 (decimal 501)
-   defining Unicode char U+0218 (decimal 536)
-   defining Unicode char U+0219 (decimal 537)
-   defining Unicode char U+021A (decimal 538)
-   defining Unicode char U+021B (decimal 539)
-   defining Unicode char U+0232 (decimal 562)
-   defining Unicode char U+0233 (decimal 563)
-   defining Unicode char U+1E02 (decimal 7682)
-   defining Unicode char U+1E03 (decimal 7683)
-   defining Unicode char U+200C (decimal 8204)
-   defining Unicode char U+2010 (decimal 8208)
-   defining Unicode char U+2011 (decimal 8209)
-   defining Unicode char U+2012 (decimal 8210)
-   defining Unicode char U+2013 (decimal 8211)
-   defining Unicode char U+2014 (decimal 8212)
-   defining Unicode char U+2015 (decimal 8213)
-   defining Unicode char U+2018 (decimal 8216)
-   defining Unicode char U+2019 (decimal 8217)
-   defining Unicode char U+201A (decimal 8218)
-   defining Unicode char U+201C (decimal 8220)
-   defining Unicode char U+201D (decimal 8221)
-   defining Unicode char U+201E (decimal 8222)
-   defining Unicode char U+2030 (decimal 8240)
-   defining Unicode char U+2031 (decimal 8241)
-   defining Unicode char U+2039 (decimal 8249)
-   defining Unicode char U+203A (decimal 8250)
-   defining Unicode char U+2423 (decimal 9251)
-   defining Unicode char U+1E20 (decimal 7712)
-   defining Unicode char U+1E21 (decimal 7713)
 )
-Now handling font encoding OT1 ...
-... processing UTF-8 mapping file for font encoding OT1
-
-("C:\Users\djava_000\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ot1enc.df
-u"
-File: ot1enc.dfu 2018/04/05 v1.2c UTF-8 support for inputenc
-   defining Unicode char U+00A0 (decimal 160)
-   defining Unicode char U+00A1 (decimal 161)
-   defining Unicode char U+00A3 (decimal 163)
-   defining Unicode char U+00AD (decimal 173)
-   defining Unicode char U+00B8 (decimal 184)
-   defining Unicode char U+00BF (decimal 191)
-   defining Unicode char U+00C5 (decimal 197)
-   defining Unicode char U+00C6 (decimal 198)
-   defining Unicode char U+00D8 (decimal 216)
-   defining Unicode char U+00DF (decimal 223)
-   defining Unicode char U+00E6 (decimal 230)
-   defining Unicode char U+00EC (decimal 236)
-   defining Unicode char U+00ED (decimal 237)
-   defining Unicode char U+00EE (decimal 238)
-   defining Unicode char U+00EF (decimal 239)
-   defining Unicode char U+00F8 (decimal 248)
-   defining Unicode char U+0131 (decimal 305)
-   defining Unicode char U+0141 (decimal 321)
-   defining Unicode char U+0142 (decimal 322)
-   defining Unicode char U+0152 (decimal 338)
-   defining Unicode char U+0153 (decimal 339)
-   defining Unicode char U+0174 (decimal 372)
-   defining Unicode char U+0175 (decimal 373)
-   defining Unicode char U+0176 (decimal 374)
-   defining Unicode char U+0177 (decimal 375)
-   defining Unicode char U+0218 (decimal 536)
-   defining Unicode char U+0219 (decimal 537)
-   defining Unicode char U+021A (decimal 538)
-   defining Unicode char U+021B (decimal 539)
-   defining Unicode char U+2013 (decimal 8211)
-   defining Unicode char U+2014 (decimal 8212)
-   defining Unicode char U+2018 (decimal 8216)
-   defining Unicode char U+2019 (decimal 8217)
-   defining Unicode char U+201C (decimal 8220)
-   defining Unicode char U+201D (decimal 8221)
-)
-Now handling font encoding OMS ...
-... processing UTF-8 mapping file for font encoding OMS
-
-("C:\Users\djava_000\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omsenc.df
-u"
-File: omsenc.dfu 2018/04/05 v1.2c UTF-8 support for inputenc
-   defining Unicode char U+00A7 (decimal 167)
-   defining Unicode char U+00B6 (decimal 182)
-   defining Unicode char U+00B7 (decimal 183)
-   defining Unicode char U+2020 (decimal 8224)
-   defining Unicode char U+2021 (decimal 8225)
-   defining Unicode char U+2022 (decimal 8226)
-)
-Now handling font encoding OMX ...
-... no UTF-8 mapping file for font encoding OMX
-Now handling font encoding U ...
-... no UTF-8 mapping file for font encoding U
-   defining Unicode char U+00A9 (decimal 169)
-   defining Unicode char U+00AA (decimal 170)
-   defining Unicode char U+00AE (decimal 174)
-   defining Unicode char U+00BA (decimal 186)
-   defining Unicode char U+02C6 (decimal 710)
-   defining Unicode char U+02DC (decimal 732)
-   defining Unicode char U+200C (decimal 8204)
-   defining Unicode char U+2026 (decimal 8230)
-   defining Unicode char U+2122 (decimal 8482)
-   defining Unicode char U+2423 (decimal 9251)
-   defining Unicode char U+FEFF (decimal 65279)
-))
-("C:\Users\djava_000\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fontenc.s
-ty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
 Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
 
-("C:\Users\djava_000\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.def
-"
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def"
 File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 ))
-("C:\Users\djava_000\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.
-sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
 Package: babel 2018/06/05 3.22 The Babel package
 
-("C:\Users\djava_000\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\switch
-.def"
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\switch.def"
 File: switch.def 2018/06/05 3.22 Babel switching mechanism
 )
 *************************************
 * Local config file bblopts.cfg used
 *
-(D:\Programmes\MiKTEX\tex/latex\arabi\bblopts.cfg
+("C:\Program Files\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg"
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
 Package babel Info: You haven't specified a language. I'll use 'nil'
 (babel)             as the main language. Reported on input line 488.
 
-("C:\Users\djava_000\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\nil.ld
-f"
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\nil.ldf"
 Language: nil 2018/06/05 3.22 Nil language
 
-("C:\Users\djava_000\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.
-def"
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
 File: babel.def 2018/06/05 3.22 Babel common definitions
-\babel@savecnt=\count139
+\babel@savecnt=\count140
 \U@D=\dimen140
 
-("C:\Users\djava_000\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\txtbab
-el.def")
-\bbl@dirlevel=\count140
-)
-
-Package babel Warning: No hyphenation patterns were preloaded for
-(babel)                the language `nil' into the format.
-(babel)                Please, configure your TeX system to add them and
-(babel)                rebuild the format. Now I will use the patterns
-(babel)                preloaded for english instead on input line 38.
-
-\l@nil = a dialect from \language0
-))
-("C:\Users\djava_000\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geome
-try.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\txtbabel.def")
+\bbl@dirlevel=\count141
+)))
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
 Package: geometry 2018/04/16 v5.8 Page Geometry
 
-("C:\Users\djava_000\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifv
-tex.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-("C:\Users\djava_000\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxe
-tex.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count141
-\Gm@cntv=\count142
-\c@Gm@tempcnt=\count143
+\Gm@cnth=\count142
+\Gm@cntv=\count143
+\c@Gm@tempcnt=\count144
 \Gm@bindingoffset=\dimen141
 \Gm@wd@mp=\dimen142
 \Gm@odd@mp=\dimen143
@@ -713,51 +357,12 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen148
 \Gm@dimlist=\toks27
 
-("C:\Users\djava_000\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geome
-try.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
 
 LaTeX Warning: Unused global option(s):
     [conference,compsocconf].
 
-(document.aux
-
-! Package babel Error: Unknown language `french'. Either you have
-(babel)                misspelled its name, it has not been installed,
-(babel)                or you requested it in a previous run. Fix its name,
-(babel)                install it or just rerun the file, respectively. In
-(babel)                some cases, you may need to remove the aux file.
-
-See the babel package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.9 \select@language{french}
-                            
-You may proceed, but expect wrong results
-
-! Undefined control sequence.
-<argument> r@sec:
-                 conclusion
-l.62 \newlabel{sec:conclusion}{{6}{8}}
-                                      
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<argument> r@sec:
-                 conclusion
-l.62 \newlabel{sec:conclusion}{{6}{8}}
-                                      
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-)
+(document.aux)
 \openout1 = `document.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 64.
@@ -772,54 +377,44 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 64.
 LaTeX Font Info:    ... okay on input line 64.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 64.
 LaTeX Font Info:    ... okay on input line 64.
- (D:\Programmes\MiKTEX\tex\context\base\supp-pdf.mkii
+ ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count144
+\scratchcounter=\count145
 \scratchdimen=\dimen149
 \scratchbox=\box58
-\nofMPsegments=\count145
-\nofMParguments=\count146
+\nofMPsegments=\count146
+\nofMParguments=\count147
 \everyMPshowfont=\toks28
-\MPscratchCnt=\count147
+\MPscratchCnt=\count148
 \MPscratchDim=\dimen150
-\MPnumerator=\count148
-\makeMPintoPDFobject=\count149
+\MPnumerator=\count149
+\makeMPintoPDFobject=\count150
 \everyMPtoPDFconversion=\toks29
-)
-("C:\Users\djava_000\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epsto
-pdf-base.sty"
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("C:\Users\djava_000\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\inf
-warerr.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-("C:\Users\djava_000\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfex
-t.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 
-("C:\Users\djava_000\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvd
-efinekeys.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 
-("C:\Users\djava_000\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltx
-cmds.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )))
-("C:\Users\djava_000\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvopt
-ions.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-("C:\Users\djava_000\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvs
-etkeys.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-("C:\Users\djava_000\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ete
-xcmds.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 
-("C:\Users\djava_000\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifl
-uatex.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
@@ -828,8 +423,7 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 )))
-("C:\Users\djava_000\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdf
-texcmds.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
 Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
@@ -879,17 +473,19 @@ G,.JBIG2,.JB2,.eps]
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    Try loading font information for U+msa on input line 87.
-
-("C:\Users\djava_000\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.
-fd"
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 87.
 
-("C:\Users\djava_000\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.
-fd"
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
+Overfull \hbox (1.02403pt too wide) in paragraph at lines 99--100
+\T1/cmr/m/n/10 (MDGs) qui s'étend jusq'en 2015 [[]]. Il s'agit d'un ensemble d'
+objectifs internationaux
+ []
+
 <sdgs.png, id=1, 794.97pt x 614.295pt>
 File: sdgs.png Graphic file (type png)
 <use sdgs.png>
@@ -897,80 +493,157 @@ Package pdftex.def Info: sdgs.png  used on input line 104.
 (pdftex.def)             Requested size: 300.0pt x 231.8223pt.
 
 Overfull \hbox (0.89906pt too wide) in paragraph at lines 113--114
-\T1/cmr/m/n/10 s'influencent mutuelle-ment. Par ex-em-ple, en for-mant des cito
-yens à l'utilisation de matériel
+\T1/cmr/m/n/10 s'influencent mutuellement. Par exemple, en formant des citoyens
+ à l'utilisation de matériel
+ []
+
+
+Overfull \hbox (17.98083pt too wide) in paragraph at lines 116--117
+[]\T1/cmr/m/n/10 Un accès universel à l'eau et aux installations sanitaires
  []
 
 [1
 
 {C:/Users/djava_000/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Overfull \hbox (11.47981pt too wide) in paragraph at lines 120--123
+\T1/cmr/m/n/10 Les dix-sept buts possèdent leurs propres indicateurs globaux et
+ standardisés. Ces indicateurs
+ []
+
 <marine-life-dead-zones.png, id=13, 833.1125pt x 696.6025pt>
 File: marine-life-dead-zones.png Graphic file (type png)
 <use marine-life-dead-zones.png>
-Package pdftex.def Info: marine-life-dead-zones.png  used on input line 136.
+Package pdftex.def Info: marine-life-dead-zones.png  used on input line 137.
 (pdftex.def)             Requested size: 200.0pt x 167.2199pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 127--143
+Overfull \hbox (3.56508pt too wide) in paragraph at lines 126--144
+\T1/cmr/m/n/10 Toujours d'après ce même rapport, les innondations sont à l'orig
+ine de nombreuses maladies
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--144
 
  []
 
-[2 <./sdgs.png>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [3]
-Overfull \hbox (11.31734pt too wide) in paragraph at lines 152--153
-[]\T1/cmr/m/n/10 On peut trou-ver des macro-invertébrés de façon abon-dante dan
-s tous les types d'habitats. 
+Underfull \vbox (badness 2245) has occurred while \output is active []
+
+ [2 <./sdgs.png>] [3]
+Overfull \hbox (1.56972pt too wide) in paragraph at lines 151--152
+[]\T1/cmr/m/n/10 La différence de caractéristiques entre les différents organis
+mes va modifier leur réponse
  []
 
 [4 <./marine-life-dead-zones.png (PNG copy)>]
-Underfull \hbox (badness 10000) in paragraph at lines 163--165
+<ibgn.jpg, id=25, 521.95pt x 391.4625pt>
+File: ibgn.jpg Graphic file (type jpg)
+<use ibgn.jpg>
+Package pdftex.def Info: ibgn.jpg  used on input line 165.
+(pdftex.def)             Requested size: 300.0pt x 224.99959pt.
+
+
+Package natbib Warning: Citation `ibgn' on page 5 undefined on input line 167.
+
+
+Overfull \hbox (5.3702pt too wide) in paragraph at lines 169--171
+\T1/cmr/m/n/10 L'intérêt de cette méthode réside dans le fait qu'elle tient com
+pte de toutes les communautés
+ []
+
+
+Overfull \hbox (11.7853pt too wide) in paragraph at lines 172--174
+\T1/cmr/m/n/10 La pollution de l'air impacte également le changement climatique
+ en modifiant la composition
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--174
 
  []
 
-[5]
-Underfull \hbox (badness 10000) in paragraph at lines 180--183
+[5] [6 <./ibgn.jpg>]
+Overfull \hbox (14.81233pt too wide) in paragraph at lines 189--192
+\T1/cmr/m/n/10 protégées, les zones de minages ou encore de déforestation. Les 
+citoyens ayant des informations
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--192
 
  []
 
-[6]
-Underfull \hbox (badness 10000) in paragraph at lines 200--201
+[7]
+Overfull \hbox (23.06612pt too wide) in paragraph at lines 200--202
+ \T1/cmr/bx/n/10 World Water Monitoring Challenge[] \T1/cmr/m/n/10 Le WWMC est 
+un projet du EarthEcho International.
+ []
+
+
+Overfull \hbox (14.16661pt too wide) in paragraph at lines 209--212
+ \T1/cmr/bx/n/10 Riverfly Monitoring Initiative[] \T1/cmr/m/n/10 Ce projet, réa
+lisé aux Royaumes-Unis, réunis de nombreux
+ []
+
+
+Overfull \hbox (25.67079pt too wide) in paragraph at lines 209--212
+\T1/cmr/m/n/10 Ces insectes jouent un rôle fondamental dans les rivières, en pa
+rticulier concernant l'alimentation
+ []
+
+[8] (document.bbl [9]
+Underfull \hbox (badness 2865) in paragraph at lines 5--20
+[]\T1/cmr/m/n/10 Zorana J. Andersen, Marie Pedersen, Gudrun Weinmayr, Massimo
+ []
+
+
+Underfull \hbox (badness 1845) in paragraph at lines 28--31
+\T1/cmr/m/n/10 Sustainable Development Goals.  Technical report, United Nations
+,
+ []
+
+
+Underfull \hbox (badness 1082) in paragraph at lines 38--41
+[]\T1/cmr/m/n/10 Robert J. Diaz and Rutger Rosenberg.  Spreading dead zones and
 
  []
 
-[7] (document.bbl [8] [9
 
-]) [10] (document.aux)
+Underfull \hbox (badness 1005) in paragraph at lines 47--54
+\T1/cmr/m/n/10 E. Gomez, C. D. Harvell, P. F. Sale, A. J. Edwards, K. Caldeira,
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+ []
 
- ) 
+[10
+
+])
+
+Package natbib Warning: There were undefined citations.
+
+[11] (document.aux) ) 
 Here is how much of TeX's memory you used:
- 5098 strings out of 493334
- 68426 string characters out of 3142273
- 153287 words of memory out of 3000000
- 8505 multiletter control sequences out of 15000+200000
+ 4757 strings out of 492969
+ 62772 string characters out of 3135789
+ 154023 words of memory out of 3000000
+ 8518 multiletter control sequences out of 15000+200000
  12188 words of font info for 31 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,6n,26p,1342b,274s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\djava_000\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi
-600\ecti1000.pk> <C:\Users\djava_000\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\j
-knappen\ec\dpi600\ecbx1200.pk> <C:\Users\djava_000\AppData\Local\MiKTeX\2.9\fon
-ts\pk\ljfour\jknappen\ec\dpi600\ecbx1000.pk> <C:\Users\djava_000\AppData\Local\
-MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx0900.pk> <C:\Users\djava_000\
-AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0900.pk> <C:\Us
-ers\djava_000\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1
-000.pk> <C:\Users\djava_000\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\e
-c\dpi600\ecbx1440.pk><C:/Users/djava_000/AppData/Local/Programs/MiKTeX 2.9/font
-s/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/djava_000/AppData/Local/Program
-s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/djava_000/AppDa
-ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users
-/djava_000/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr
-7.pfb><C:/Users/djava_000/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
-amsfonts/cm/cmsy10.pfb>
-Output written on document.pdf (10 pages, 433073 bytes).
+ 41i,6n,28p,1384b,274s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm-s
+uper-t1.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.
+pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/P
+rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/cm-super/sfbx0900.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
+public/cm-super/sfbx1000.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm
+-super/sfbx1200.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sf
+bx1440.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm0900.pf
+b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1000.pfb><C:/Pro
+gram Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfti1000.pfb>
+Output written on document.pdf (11 pages, 525180 bytes).
 PDF statistics:
- 401 PDF objects out of 1000 (max. 8388607)
+ 92 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 

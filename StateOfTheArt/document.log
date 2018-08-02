@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6745 64-bit) (preloaded format=pdflatex 2018.7.16)  18 JUL 2018 18:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6745 64-bit) (preloaded format=pdflatex 2018.7.16)  2 AUG 2018 15:47
 entering extended mode
 **./document.tex
 (document.tex
@@ -320,11 +320,8 @@ File: switch.def 2018/06/05 3.22 Babel switching mechanism
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-Package babel Info: You haven't specified a language. I'll use 'nil'
-(babel)             as the main language. Reported on input line 488.
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\babel\nil.ldf"
-Language: nil 2018/06/05 3.22 Nil language
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel-french\french.ldf"
+Language: french 2018/07/06 v3.5a French support from the babel system
 
 ("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
 File: babel.def 2018/06/05 3.22 Babel common definitions
@@ -333,7 +330,31 @@ File: babel.def 2018/06/05 3.22 Babel common definitions
 
 ("C:\Program Files\MiKTeX 2.9\tex\generic\babel\txtbabel.def")
 \bbl@dirlevel=\count141
-)))
+)
+\l@acadian = a dialect from \language\l@french 
+\FB@nonchar=\count142
+Package babel Info: Making : an active character on input line 416.
+Package babel Info: Making ; an active character on input line 417.
+Package babel Info: Making ! an active character on input line 418.
+Package babel Info: Making ? an active character on input line 419.
+\FBguill@level=\count143
+\FB@everypar=\toks27
+\FB@Mht=\dimen141
+\mc@charclass=\count144
+\mc@charfam=\count145
+\mc@charslot=\count146
+\std@mcc=\count147
+\dec@mcc=\count148
+\c@FBcaption@count=\count149
+\listindentFB=\dimen142
+\descindentFB=\dimen143
+\labelindentFB=\dimen144
+\labelwidthFB=\dimen145
+\leftmarginFB=\dimen146
+\parindentFFN=\dimen147
+\FBfnindent=\dimen148
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\carlisle\scalefnt.sty")
 ("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
 Package: geometry 2018/04/16 v5.8 Page Geometry
 
@@ -344,18 +365,18 @@ Package ifvtex Info: VTeX not detected.
 ("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count142
-\Gm@cntv=\count143
-\c@Gm@tempcnt=\count144
-\Gm@bindingoffset=\dimen141
-\Gm@wd@mp=\dimen142
-\Gm@odd@mp=\dimen143
-\Gm@even@mp=\dimen144
-\Gm@layoutwidth=\dimen145
-\Gm@layoutheight=\dimen146
-\Gm@layouthoffset=\dimen147
-\Gm@layoutvoffset=\dimen148
-\Gm@dimlist=\toks27
+\Gm@cnth=\count150
+\Gm@cntv=\count151
+\c@Gm@tempcnt=\count152
+\Gm@bindingoffset=\dimen149
+\Gm@wd@mp=\dimen150
+\Gm@odd@mp=\dimen151
+\Gm@even@mp=\dimen152
+\Gm@layoutwidth=\dimen153
+\Gm@layoutheight=\dimen154
+\Gm@layouthoffset=\dimen155
+\Gm@layoutvoffset=\dimen156
+\Gm@dimlist=\toks28
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
 
@@ -379,17 +400,17 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 64.
 LaTeX Font Info:    ... okay on input line 64.
  ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count145
-\scratchdimen=\dimen149
+\scratchcounter=\count153
+\scratchdimen=\dimen157
 \scratchbox=\box58
-\nofMPsegments=\count146
-\nofMParguments=\count147
-\everyMPshowfont=\toks28
-\MPscratchCnt=\count148
-\MPscratchDim=\dimen150
-\MPnumerator=\count149
-\makeMPintoPDFobject=\count150
-\everyMPtoPDFconversion=\toks29
+\nofMPsegments=\count154
+\nofMParguments=\count155
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count156
+\MPscratchDim=\dimen158
+\MPnumerator=\count157
+\makeMPintoPDFobject=\count158
+\everyMPtoPDFconversion=\toks30
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -438,6 +459,19 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
+LaTeX Info: Redefining \degres on input line 64.
+
+
+Package french.ldf Warning: Figures' and tables' captions might look like
+(french.ldf)                `Figure 1:' in French instead of `Figure 1 :'.
+(french.ldf)                If it happens, see your class documentation to
+(french.ldf)                fix this issue or add AFTER babel/french
+(french.ldf)                \usepackage[labelsep=period]{caption} or
+(french.ldf)                \usepackage[labelsep=endash]{caption} or
+(french.ldf)                or ... live with it; reported on input line 64.
+
+LaTeX Info: Redefining \dots on input line 64.
+LaTeX Info: Redefining \up on input line 64.
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -481,154 +515,79 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 87.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (1.02403pt too wide) in paragraph at lines 99--100
-\T1/cmr/m/n/10 (MDGs) qui s'étend jusq'en 2015 [[]]. Il s'agit d'un ensemble d'
-objectifs internationaux
- []
-
 <sdgs.png, id=1, 794.97pt x 614.295pt>
 File: sdgs.png Graphic file (type png)
 <use sdgs.png>
 Package pdftex.def Info: sdgs.png  used on input line 104.
 (pdftex.def)             Requested size: 300.0pt x 231.8223pt.
-
-Overfull \hbox (0.89906pt too wide) in paragraph at lines 113--114
-\T1/cmr/m/n/10 s'influencent mutuellement. Par exemple, en formant des citoyens
- à l'utilisation de matériel
- []
-
-
-Overfull \hbox (17.98083pt too wide) in paragraph at lines 116--117
-[]\T1/cmr/m/n/10 Un accès universel à l'eau et aux installations sanitaires
- []
-
-[1
+ [1
 
 {C:/Users/djava_000/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Overfull \hbox (11.47981pt too wide) in paragraph at lines 120--123
-\T1/cmr/m/n/10 Les dix-sept buts possèdent leurs propres indicateurs globaux et
- standardisés. Ces indicateurs
- []
-
 <marine-life-dead-zones.png, id=13, 833.1125pt x 696.6025pt>
 File: marine-life-dead-zones.png Graphic file (type png)
 <use marine-life-dead-zones.png>
-Package pdftex.def Info: marine-life-dead-zones.png  used on input line 137.
+Package pdftex.def Info: marine-life-dead-zones.png  used on input line 138.
 (pdftex.def)             Requested size: 200.0pt x 167.2199pt.
 
-Overfull \hbox (3.56508pt too wide) in paragraph at lines 126--144
-\T1/cmr/m/n/10 Toujours d'après ce même rapport, les innondations sont à l'orig
-ine de nombreuses maladies
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 126--144
+Underfull \hbox (badness 10000) in paragraph at lines 127--145
 
  []
 
 
-Underfull \vbox (badness 2245) has occurred while \output is active []
+Underfull \vbox (badness 4291) has occurred while \output is active []
 
  [2 <./sdgs.png>] [3]
-Overfull \hbox (1.56972pt too wide) in paragraph at lines 151--152
-[]\T1/cmr/m/n/10 La différence de caractéristiques entre les différents organis
-mes va modifier leur réponse
+Overfull \hbox (3.45888pt too wide) in paragraph at lines 152--153
+[]\T1/cmr/m/n/10 Pour une va-ria-tion en-vi-ron-ne-men-tale don-née, il est trè
+s pro-bable de trou-ver quelques
  []
 
 [4 <./marine-life-dead-zones.png (PNG copy)>]
-<ibgn.jpg, id=25, 521.95pt x 391.4625pt>
+<ibgn.jpg, id=26, 521.95pt x 391.4625pt>
 File: ibgn.jpg Graphic file (type jpg)
 <use ibgn.jpg>
-Package pdftex.def Info: ibgn.jpg  used on input line 165.
+Package pdftex.def Info: ibgn.jpg  used on input line 167.
 (pdftex.def)             Requested size: 300.0pt x 224.99959pt.
 
 
-Package natbib Warning: Citation `ibgn' on page 5 undefined on input line 167.
+Package natbib Warning: Citation `ibgn' on page 5 undefined on input line 169.
 
-
-Overfull \hbox (5.3702pt too wide) in paragraph at lines 169--171
-\T1/cmr/m/n/10 L'intérêt de cette méthode réside dans le fait qu'elle tient com
-pte de toutes les communautés
- []
-
-
-Overfull \hbox (11.7853pt too wide) in paragraph at lines 172--174
-\T1/cmr/m/n/10 La pollution de l'air impacte également le changement climatique
- en modifiant la composition
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 172--174
+[5 <./ibgn.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 175--177
 
  []
 
-[5] [6 <./ibgn.jpg>]
-Overfull \hbox (14.81233pt too wide) in paragraph at lines 189--192
-\T1/cmr/m/n/10 protégées, les zones de minages ou encore de déforestation. Les 
-citoyens ayant des informations
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 189--192
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 191--194
 
  []
 
-[7]
-Overfull \hbox (23.06612pt too wide) in paragraph at lines 200--202
- \T1/cmr/bx/n/10 World Water Monitoring Challenge[] \T1/cmr/m/n/10 Le WWMC est 
-un projet du EarthEcho International.
- []
+[7] [8]
+<RAI.png, id=44, 688.37175pt x 517.33275pt>
+File: RAI.png Graphic file (type png)
+<use RAI.png>
+Package pdftex.def Info: RAI.png  used on input line 225.
+(pdftex.def)             Requested size: 300.0pt x 225.46419pt.
 
 
-Overfull \hbox (14.16661pt too wide) in paragraph at lines 209--212
- \T1/cmr/bx/n/10 Riverfly Monitoring Initiative[] \T1/cmr/m/n/10 Ce projet, réa
-lisé aux Royaumes-Unis, réunis de nombreux
- []
+Package natbib Warning: Citation `hudart' on page 9 undefined on input line 227
+.
 
-
-Overfull \hbox (25.67079pt too wide) in paragraph at lines 209--212
-\T1/cmr/m/n/10 Ces insectes jouent un rôle fondamental dans les rivières, en pa
-rticulier concernant l'alimentation
- []
-
-[8] (document.bbl [9]
-Underfull \hbox (badness 2865) in paragraph at lines 5--20
-[]\T1/cmr/m/n/10 Zorana J. Andersen, Marie Pedersen, Gudrun Weinmayr, Massimo
- []
-
-
-Underfull \hbox (badness 1845) in paragraph at lines 28--31
-\T1/cmr/m/n/10 Sustainable Development Goals.  Technical report, United Nations
-,
- []
-
-
-Underfull \hbox (badness 1082) in paragraph at lines 38--41
-[]\T1/cmr/m/n/10 Robert J. Diaz and Rutger Rosenberg.  Spreading dead zones and
-
- []
-
-
-Underfull \hbox (badness 1005) in paragraph at lines 47--54
-\T1/cmr/m/n/10 E. Gomez, C. D. Harvell, P. F. Sale, A. J. Edwards, K. Caldeira,
-
- []
-
-[10
+[9] (document.bbl [10 <./RAI.png>] [11
 
 ])
 
 Package natbib Warning: There were undefined citations.
 
-[11] (document.aux) ) 
+[12] (document.aux) ) 
 Here is how much of TeX's memory you used:
- 4757 strings out of 492969
- 62772 string characters out of 3135789
- 154023 words of memory out of 3000000
- 8518 multiletter control sequences out of 15000+200000
- 12188 words of font info for 31 fonts, out of 3000000 for 9000
+ 5495 strings out of 492969
+ 74071 string characters out of 3135789
+ 168503 words of memory out of 3000000
+ 9250 multiletter control sequences out of 15000+200000
+ 12877 words of font info for 32 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,6n,28p,1384b,274s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,6n,31p,1384b,423s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm-s
 uper-t1.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.
 pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/P
@@ -640,10 +599,11 @@ public/cm-super/sfbx1000.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm
 -super/sfbx1200.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sf
 bx1440.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm0900.pf
 b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1000.pfb><C:/Pro
-gram Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfti1000.pfb>
-Output written on document.pdf (11 pages, 525180 bytes).
+gram Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfti1000.pfb><C:/Program File
+s/MiKTeX 2.9/fonts/type1/public/cm-super/sfxc0900.pfb>
+Output written on document.pdf (12 pages, 627984 bytes).
 PDF statistics:
- 92 PDF objects out of 1000 (max. 8388607)
+ 100 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

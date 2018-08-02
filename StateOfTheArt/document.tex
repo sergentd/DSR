@@ -65,7 +65,7 @@
 %
 % paper title
 % can use linebreaks \\ within to get better formatting as desired
-\title{Les Citizen Sciences dans\\l'accomplissement des SDGs}
+\title{Les Citizen Sciences dans\\l'accomplissement des SDGs : \\un exemple environnemental}
 
 
 
@@ -108,7 +108,7 @@ djavan.sergent@etu.unige.ch}
 	\\
 	Nous analysons dans cet article le rôle du numérique dans la réalisation des certains SDGs, particulièrement du point de vue de la participation citoyenne. Une attention spéciale est portée sur la qualité de l'eau et de l'air, sur les différents indicateurs qui permettent de l'évaluer et sur les méthodes de surveillance utilisé tant au niveau global, par exemple par satellite, que local au moyen de prélèvements.
 
-	\section{Sustainable Developpment Goals}
+\section{Sustainable Developpment Goals}
 		\subsection{Objectifs}
 			Nous nous intéressons, dans le cadre de cet article, aux buts décrits ci-dessous. Il est cependant important de noter que les objectifs sont intrinséquement liés entre eux et s'influencent mutuellement. Par exemple, en formant des citoyens à l'utilisation de matériel de mesure de qualité de l'eau, on va agir non seulement sur la capacité à, entre autre, détecter la pollution mais également sur l'éducation.
 			\begin{description}
@@ -182,14 +182,47 @@ djavan.sergent@etu.unige.ch}
 		
 \section{Participation citoyenne}
 	Les citoyens peuvent contribuer à la réalisation de ces SDGs par plusieurs moyens, qu'il s'agisse de la récupération, du traitement des données receuillies sur le terrain, de la mise à disposition de ressources ou d'outils. On peut citer en exemple le "World Water Monitoring Day", journée lors de laquelle des miliers de citoyens vont récupérer, dans les points d'eau proche de chez eux, des échantillonsdont la qualité est analysée. \\
-	Lorsque l'étendue géographique à couvrir et/ou la durée des observations dans le temps sont des paramètres importants, il est intéressant de recourir à un nombre important de citoyens bénévoles non spécialistes plutôt qu'à un petit groupe d'expert. De plus, leur nombre et leur répartition sur le terrain permettent de limiter les risques financiers, de biais et d'évaluation non-neutre. Des protocoles standardisés sont nécessaires dans cette approche citoyenne.
-		INatrualist, NatureBytes, Epicollect, SeeClickFix, Water Reporter, Project Noah		
+	Lorsque l'étendue géographique à couvrir et/ou la durée des observations dans le temps sont des paramètres importants, il est intéressant de recourir à un nombre important de citoyens bénévoles non spécialistes plutôt qu'à un petit groupe d'expert. De plus, leur nombre et leur répartition sur le terrain permettent de limiter les risques financiers, de biais et d'évaluation non-neutre. Des protocoles standardisés sont nécessaires dans cette approche citoyenne.	
 
 	\subsection{Projets}
+		\subsubsection{Public Lab}
+		Public Lab est un réseau américain de sciences citoyennes. Ils développent du matériel et des logiciels qui sont ensuite utilisés dans des projets de sciences citoyennes. Ils sont à l'origine de nombreux projets tels que l'Open Water Project, Open Air, Open Land, etc. et contribuent à d'autres tel que l'InfoAmazonia en participant à l'élaboration des composants utilisés dans le capteur Mae d'Agua.\\
+			Public Lab a créé de nombreux capteurs spécialisés dans l'analyse des données environnementales. Le Riffle est designé pour être étanche, open source, open hardware et compatible avec un Arduino. Il permet initialement de mesurer la température de l'eau, mais il est également modulable et on peut lui ajouter des capteurs de turbidité, de pression et de conductivité. Cette modularité et son prix relativement bas lui offre une large variété de cas d'utilisation. Le Riffle est pensé pour répondre aux critères suivants :
+			\begin{itemize}
+				\item Faible consommation de batterie : le capteur doit pouvoir fonctionner au moins une semaine sans être rechargé.
+				\item Du matériel libre : pour permettre à la communauté de le modifier et en faciliant l'ajout de nouveaux capteurs.
+				\item Des logiciels libres : qui ont pour but de faciliter le transfert et la visualisation d'informations.
+				\item Matériel de stockage libre : pour que les données de sorties soient au format CSV et sur une carte SD.
+				\item Du matériel accessible : il doit être facile de remplacer un composant, et si possible de le trouver localement. Le tout doit pouvoir être encapsulé dans un conteneur étanche.
+				\item Créer une communauté : en engageant des citoyens autour de la création d'un tel objet.
+			\end{itemize}
+			Le plus grand challenge est de trouver un conteneur étanche qui permette la réalisation des relevés désirés. Plusieurs approches plus ou moins satisfaisante sont proposées, mais la plus intéressante propose d'utiliser de simples bouteilles en plastique dont on perce le bouchon pour laisser sortir les capteurs.
+			\begin{figure}
+				\begin{center}
+					\includegraphics[width=100pt]{bottle_enclosure.png}
+				\end{center}
+				\caption{Idée générale de l'encapsulation du Riffle, de son alimentation en électricité et ddes différents capteurs (source : Public Lab)}
+			\end{figure}
+			Cette configuration a donné lieu à de nombreuses propositions comme l'utilisation de riz pour absorber les éventuelles fuites, ou encore l'ajout de capteurs de conductivité (qui n'étaient pas prévus dans le design initial). Il existe également des plans d'impression 3D pour imprimer un conteneur étanche.\\
+			La carte possédant le circuit électronique a été développée pour être entièrement compatible avec l'IDE d'Arduino et d'une size qui lui permette de passer dans la plupart des goulots des bouteilles de 20mm. Le fait de devoir glisser le tout par l'embouchure demande également à ce que les broches de connexion se trouvent aux extrêmités de la carte afin que les cables passent verticalement.
+			\begin{figure}
+				\begin{center}
+					\includegraphics[width=300pt]{riffle_parts_2.png}
+				\end{center}
+				\caption{Dernière version du Riffle (source : Public Lab)}
+			\end{figure}
+			La configuration du Riffle est hautement modulable et permet par exemple l'ajout d'une carte GSM ou d'un émetteur/récepteur radio pour les télécommunications.  Le problème d'une carte SIM étant bien sûr les coûts mensuels liés à son utilisation. A noter que les télécommunications ont également un effet non négligeable sur la durée de vie d'un appareil. Les interfaces utilisées sont sélectionnées pour être compatibles avec la plus large variété de protocoles et de matériel électroniques externes. Les données recueillies sont ensuite fournies au format CSV ou TSV et c'est à l'utilisateur de voir comment il veut les traiter. Cette décision a été prise après discussion avec de nombreux hydrologues car il existe de nombreux workflows différents. Il est donc plus pertinent de présenter les données sous un format générique et de laisser le soin de les rendre compatible avec son propre système à l'utilisateur.\\
+			Public Lab a également contribué à d'autres projets comme le Thermal Fish Bob (capteur de température basé sur la lumière), le Coqui qui peut émettre des fréquences de son audibles et effectuer des mesures de conductivité, de température et de visibilité, ou le Kit Initiative qui vise à mettre à disposition et distribuer les kits nécessaires aux différents challenges rencontrés.
 		
 		\subsubsection{InfoAmazonia}
 			InfoAmazonia regroupe de nombreux projets autour de la forêt tropicale amazonienne. Les informations recueillies par sont ensuite rendues disponibles via une carte interactive. Celle-ci présente différentes vues, telles que, entre autres, les zones protégées, les zones de minages ou encore de déforestation. Les citoyens ayant des informations à diffuser sont invités à contribuer au projet au moyen d'un formulaire qui permet de soumettre sa propre histoire ou des données. Le projet InfoAmazonia est soutenu par plusieurs acteurs locaux. \\
-			Parmi les différentes sources de données du projet, on peut notamment citer Mare d'Agua, un matériel ouvert qui permet de surveiller la qualité de l'eau. un réseau de capteurs sans fils (WSN) qui récupère les informations relatives à la qualité de l'eau telles que la conductivité électrique, le pH, le potentiel d'oxyréduction (OPR), la température, la pression barométrique ainsi que la température du capteur. Cet équipement peut être utilisé pour surveiller la qualité de l'eau dans des boîtes à eau, des citernes et réservoirs ainsi que les corps d'eau à faible débit. Inspiré du capteur "Riffle", ce matériel a été développé en collaboration avec Public Lab (réseau américain de science citoyenne) ainsi que Dev Technologia, une startup de Sao Paulo University. Les données recueillies sont envoyées à un serveur via le réseau de téléphonie mobile. Les relevés sont effectués à une fréquence d'un par heure. Il est nécessaire de nettoyer régulièrement les capteurs afin d'éviter que les relevés ne soient erronés à cause de l'accumulation de débris. Il s'agit d'un projet open source et open hardware, les fichiers et firmware sont disponible sous licence MIT. \\
+			\begin{figure}
+				\begin{center}
+					\includegraphics[width=300pt]{mae-dagua.jpg}
+				\end{center}
+				\caption{Mae d'Agua (source : Public Lab)}
+			\end{figure}
+			Parmi les différentes sources de données du projet, on peut notamment citer Mae d'Agua, un matériel ouvert qui permet de surveiller la qualité de l'eau. un réseau de capteurs sans fils (WSN) qui récupère les informations relatives à la qualité de l'eau telles que la conductivité électrique, le pH, le potentiel d'oxyréduction (OPR), la température, la pression barométrique ainsi que la température du capteur. Cet équipement peut être utilisé pour surveiller la qualité de l'eau dans des boîtes à eau, des citernes et réservoirs ainsi que les corps d'eau à faible débit. Inspiré du capteur "Riffle", ce matériel a été développé en collaboration avec Public Lab (réseau américain de science citoyenne) ainsi que Dev Technologia, une startup de Sao Paulo University. Les données recueillies sont envoyées à un serveur via le réseau de téléphonie mobile. Les relevés sont effectués à une fréquence d'un par heure. Il est nécessaire de nettoyer régulièrement les capteurs afin d'éviter que les relevés ne soient erronés à cause de l'accumulation de débris. Il s'agit d'un projet open source et open hardware, les fichiers et firmware sont disponible sous licence MIT. \\
 			L'équipement est modulaire et comporte 3 modules :\\
 			\begin{enumerate}
 				\item Le premier module est un Arduino Mega. Il gère le traitement des données ainsi que l'alimentation en énergie depuis une source externe.
@@ -198,8 +231,9 @@ djavan.sergent@etu.unige.ch}
 			\end{enumerate}
 			Le projet est soutenu par Google et par des institutions et entreprises locales.
 
-		\subsection{Reef Citizen Science Alliance}
-			Ce projet regroupe des citoyens qui aident à collecter des données sur la grande barrière de corail, en Australie. Les volontaires peuvent participer à des ateliers de formation qui s'adressent aux personnes ayant des connaissances faibles ou modérées sur les coraux. Ils apprennent comment effectuer les relevés de façon simple. Il existe de nombreuses façon de contribuer sans effectuer cette formation, par exemple en signalant des espèces marines particulières lors d'une session de plongée ou de snorking au moyen d'une application pour smartphone. L'application permet également de signaler des évènements en temps réel et de voir ce que les volontaires peuvent faire autour d'eux pour contribuer.
+		\subsubsection{Reef Citizen Science Alliance}
+			Ce projet regroupe des citoyens qui aident à collecter des données sur la grande barrière de corail, en Australie. Les volontaires peuvent participer à des ateliers de formation qui s'adressent aux personnes ayant des connaissances faibles ou modérées sur les coraux. Ils apprennent comment effectuer les relevés de façon simple. Il existe de nombreuses façon de contribuer sans effectuer cette formation, par exemple en signalant des espèces marines particulières lors d'une session de plongée ou de snorking au moyen d'une application pour smartphone. L'application permet également de signaler des évènements en temps réel et de voir ce que les volontaires peuvent faire autour d'eux pour contribuer. \\
+			Les résultats de ces relevés sont largement utilisés par la Great Barrier Reef Foundation qui contribue à financer de nombreux projets de préservation et de  restauration de la barrière de corail Australienne.
 		
 		\subsubsection{World Water Monitoring Challenge}
 			Le WWMC est un projet de EarthEcho International. Cet évènement, conduit chaque année entre mars et décembre, réunit plus de 1'500'00 participants dans un total de 146 pays. L'idée est d'équiper et former les citoyens afin qu'ils surveillent leurs points d'eau locaux tout autour du monde avec pour le moment 77'685 endroits surveillés. La sensibilisation et l'incitation à la surveillance pour protéger les ressources hydriques sont les points clés de ce projet. \\
@@ -228,11 +262,13 @@ djavan.sergent@etu.unige.ch}
 			\end{figure}
 			Les projets de restauration seraient ainsi plus personnalisés et les différents résultats, qu'ils soient positifs ou négatifs, seraient utilisés dans un but de guider les efforts et la recherche.
 			Le RAI prend la Riverfly Monitoring Initiative en modèle mais ajoute l'analyse statistique Before-After Control-Impact (BACI) pour contrôler un point à la fois dans le temps et l'espace. L'anlyse BACI rend les données robustes puisqu'elle permet de distinguer les effets de la restauration et ceux des fluctuations saisonnières. L'étude doit cependant être menée sur plusieurs années puisque les prélèvements ne se font plus mensuellement mais annuellement. Les mesures effectuées sont plus nombreuses et le nombre de taxons évalués est plus grand. La différence fondamentale entre le modèle proposé et l'approche de la RMI est que les données sont aggrégées pour comprendre les causes de succès ou d'échecs des projets de restauration. Ceci permet d'investir les ressources pour influencer positivement les futurs projets et de compléter la base de données au fur et à mesure de l'évolution des projets.
-		\subsubsection{Homebrew Sensing Project}
-		\subsubsection{Open Water Project}
+		
+		\subsubsection{Autres projets, logiciels et applications}
+			Les citoyens volontaire peuvent également contribuer à des projets de sciences citoyennes par le biais d'applications comme Epicollect, INaturalist, Water Reporter, Project Noah, NatureBytes etc.
+		
 		\subsubsection{Open Air}
-		\subsubsection{Open Land}
 		\subsubsection{etc...}
+				INatrualist, NatureBytes, Epicollect, SeeClickFix, Water Reporter, Project Noah	
 
 \section{Conclusion}\label{sec:conclusion}
 

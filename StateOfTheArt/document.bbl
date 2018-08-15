@@ -62,6 +62,13 @@ Hanafi Hanafi, Marion Warigia, Robert~F. Breiman, Marvin Godsey, David Hoel,
 \newblock {\em The American Journal of Tropical Medicine and Hygiene},
   83(2\_Suppl):28--37, August 2010.
 
+\bibitem[KSC{\etalchar{+}}08]{kim_nawms:_2008}
+Younghun Kim, Thomas Schmid, Zainul~M. Charbiwala, Jonathan Friedman, and
+  Mani~B. Srivastava.
+\newblock {NAWMS}: nonintrusive autonomous water monitoring system.
+\newblock In {\em Proceedings of the 6th {ACM} conference on {Embedded} network
+  sensor systems}, pages 309--322. ACM, 2008.
+
 \bibitem[Lef]{lefevre_repartition_nodate}
 Soumis par~Thierry Lefèvre.
 \newblock La répartition de l’eau sur la {Terre} {\textbar} {Planète}

@@ -1,0 +1,26 @@
+\babel@toc {french}{}
+\contentsline {title}{Les Citizen Sciences dans\unskip \ \ignorespaces l'accomplissement des SDGs : \unskip \ \ignorespaces un exemple environnemental}{1}
+\authcount {1}
+\contentsline {author}{Djavan Sergent \unskip \ \ignorespaces Superviseur : Fran\IeC {\c c}ois Grey\unskip \ \ignorespaces Master en Sciences Informatiques \unskip \ \ignorespaces djavan.sergent@etu.unige.ch}{1}
+\contentsline {section}{\numberline {1}Introduction}{2}
+\contentsline {section}{\numberline {2}Sustainable Developpment Goals}{3}
+\contentsline {subsection}{\numberline {2.1}Objectifs}{3}
+\contentsline {subsection}{\numberline {2.2}Progr\IeC {\`e}s, revue et indicateurs}{3}
+\contentsline {section}{\numberline {3}Surveillance environnementale}{3}
+\contentsline {subsection}{\numberline {3.1}Eau}{3}
+\contentsline {subsection}{\numberline {3.2}Air}{5}
+\contentsline {subsection}{\numberline {3.3}Bio-indicateurs}{5}
+\contentsline {subsection}{\numberline {3.4}R\IeC {\'e}seaux de capteurs autonomes sans fils}{7}
+\contentsline {section}{\numberline {4}Participation citoyenne}{8}
+\contentsline {subsection}{\numberline {4.1}Projets}{9}
+\contentsline {subsubsection}{Public Lab}{9}
+\contentsline {subsubsection}{InfoAmazonia}{10}
+\contentsline {subsubsection}{Reef Citizen Science Alliance}{12}
+\contentsline {subsubsection}{World Water Monitoring Challenge}{12}
+\contentsline {subsubsection}{FreshWater Watch}{12}
+\contentsline {subsubsection}{NAWMS}{13}
+\contentsline {subsubsection}{Riverfly Monitoring Initiative}{15}
+\contentsline {subsubsection}{Restoration Assessment Initiative}{15}
+\contentsline {subsubsection}{Autres projets, logiciels et applications}{17}
+\contentsline {subsubsection}{Open Air}{17}
+\contentsline {section}{\numberline {5}Conclusion}{17}

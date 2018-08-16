@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6745 64-bit) (preloaded format=pdflatex 2018.7.16)  13 AUG 2018 15:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6745 64-bit) (preloaded format=pdflatex 2018.7.16)  16 AUG 2018 13:31
 entering extended mode
 **./document.tex
 (document.tex
@@ -252,7 +252,45 @@ Package: subfigure 2002/07/30 v2.1.4 subfigure package
 \subfig@top=\skip56
 \subfig@bottom=\skip57
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\fixltx2e.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\subfig\subfig.sty"
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption.sty"
+Package: caption 2018/05/01 v3.3-147 Customizing captions (AR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+Package: caption3 2018/05/27 v1.8a caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen138
+\captionmargin@=\dimen139
+\captionwidth=\dimen140
+\caption@tempdima=\dimen141
+\caption@indent=\dimen142
+\caption@parindent=\dimen143
+\caption@hangindent=\dimen144
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+Package caption Info: \@makecaption = \long macro:#1#2->\small \vskip \abovecap
+tionskip \sbox \@tempboxa {{\bfseries #1.} #2}\ifdim \wd \@tempboxa >\hsize {\b
+fseries #1.} #2\par \else \global \@minipagefalse \hb@xt@ \hsize {\hfil \box \@
+tempboxa \hfil }\fi \vskip \belowcaptionskip .
+\c@ContinuedFloat=\count137
+Package caption Info: subfigure package is loaded.
+)
+\c@KVtest=\count138
+\sf@farskip=\skip58
+\sf@captopadj=\dimen145
+\sf@capskip=\skip59
+\sf@nearskip=\skip60
+\sf@top=\skip61
+\sf@bottom=\skip62
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\base\fixltx2e.sty"
 Package: fixltx2e 2016/12/29 v2.1a fixes to LaTeX (obsolete)
 Applying: [2015/01/01] Old fixltx2e package on input line 46.
 
@@ -265,8 +303,8 @@ Already applied: [0000/00/00] Old fixltx2e package on input line 53.
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\sttools\stfloats.sty"
 Package: stfloats 2017/03/27 v3.3 Improve float mechanism and baselineskip sett
 ings
-\@dblbotnum=\count137
-\c@dblbotnumber=\count138
+\@dblbotnum=\count139
+\c@dblbotnumber=\count140
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
@@ -285,15 +323,15 @@ Package graphics Info: Driver file: pdftex.def on input line 99.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen138
-\Gin@req@width=\dimen139
+\Gin@req@height=\dimen146
+\Gin@req@width=\dimen147
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\natbib\natbib.sty"
 Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip58
-\bibsep=\skip59
+\bibhang=\skip63
+\bibsep=\skip64
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count139
+\c@NAT@ctr=\count141
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
 Package: inputenc 2018/04/06 v1.3b Input encoding file
@@ -325,34 +363,34 @@ Language: french 2018/07/06 v3.5a French support from the babel system
 
 ("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
 File: babel.def 2018/06/05 3.22 Babel common definitions
-\babel@savecnt=\count140
-\U@D=\dimen140
+\babel@savecnt=\count142
+\U@D=\dimen148
 
 ("C:\Program Files\MiKTeX 2.9\tex\generic\babel\txtbabel.def")
-\bbl@dirlevel=\count141
+\bbl@dirlevel=\count143
 )
 \l@acadian = a dialect from \language\l@french 
-\FB@nonchar=\count142
+\FB@nonchar=\count144
 Package babel Info: Making : an active character on input line 416.
 Package babel Info: Making ; an active character on input line 417.
 Package babel Info: Making ! an active character on input line 418.
 Package babel Info: Making ? an active character on input line 419.
-\FBguill@level=\count143
+\FBguill@level=\count145
 \FB@everypar=\toks27
-\FB@Mht=\dimen141
-\mc@charclass=\count144
-\mc@charfam=\count145
-\mc@charslot=\count146
-\std@mcc=\count147
-\dec@mcc=\count148
-\c@FBcaption@count=\count149
-\listindentFB=\dimen142
-\descindentFB=\dimen143
-\labelindentFB=\dimen144
-\labelwidthFB=\dimen145
-\leftmarginFB=\dimen146
-\parindentFFN=\dimen147
-\FBfnindent=\dimen148
+\FB@Mht=\dimen149
+\mc@charclass=\count146
+\mc@charfam=\count147
+\mc@charslot=\count148
+\std@mcc=\count149
+\dec@mcc=\count150
+\c@FBcaption@count=\count151
+\listindentFB=\dimen150
+\descindentFB=\dimen151
+\labelindentFB=\dimen152
+\labelwidthFB=\dimen153
+\leftmarginFB=\dimen154
+\parindentFFN=\dimen155
+\FBfnindent=\dimen156
 ))
 ("C:\Program Files\MiKTeX 2.9\tex\latex\carlisle\scalefnt.sty")
 ("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
@@ -365,32 +403,32 @@ Package ifvtex Info: VTeX not detected.
 ("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count150
-\Gm@cntv=\count151
-\c@Gm@tempcnt=\count152
-\Gm@bindingoffset=\dimen149
-\Gm@wd@mp=\dimen150
-\Gm@odd@mp=\dimen151
-\Gm@even@mp=\dimen152
-\Gm@layoutwidth=\dimen153
-\Gm@layoutheight=\dimen154
-\Gm@layouthoffset=\dimen155
-\Gm@layoutvoffset=\dimen156
+\Gm@cnth=\count152
+\Gm@cntv=\count153
+\c@Gm@tempcnt=\count154
+\Gm@bindingoffset=\dimen157
+\Gm@wd@mp=\dimen158
+\Gm@odd@mp=\dimen159
+\Gm@even@mp=\dimen160
+\Gm@layoutwidth=\dimen161
+\Gm@layoutheight=\dimen162
+\Gm@layouthoffset=\dimen163
+\Gm@layoutvoffset=\dimen164
 \Gm@dimlist=\toks28
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
 ("C:\Program Files\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
 Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
 s
-\f@nch@headwidth=\skip60
-\f@nch@O@elh=\skip61
-\f@nch@O@erh=\skip62
-\f@nch@O@olh=\skip63
-\f@nch@O@orh=\skip64
-\f@nch@O@elf=\skip65
-\f@nch@O@erf=\skip66
-\f@nch@O@olf=\skip67
-\f@nch@O@orf=\skip68
+\f@nch@headwidth=\skip65
+\f@nch@O@elh=\skip66
+\f@nch@O@erh=\skip67
+\f@nch@O@olh=\skip68
+\f@nch@O@orh=\skip69
+\f@nch@O@elf=\skip70
+\f@nch@O@erf=\skip71
+\f@nch@O@olf=\skip72
+\f@nch@O@orf=\skip73
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lastpage\lastpage.sty"
 Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
@@ -402,30 +440,33 @@ LaTeX Warning: Unused global option(s):
 (document.aux)
 \openout1 = `document.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
  ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count153
-\scratchdimen=\dimen157
+\scratchcounter=\count155
+\scratchdimen=\dimen165
 \scratchbox=\box58
-\nofMPsegments=\count154
-\nofMParguments=\count155
+\nofMPsegments=\count156
+\nofMParguments=\count157
 \everyMPshowfont=\toks29
-\MPscratchCnt=\count156
-\MPscratchDim=\dimen158
-\MPnumerator=\count157
-\makeMPintoPDFobject=\count158
+\MPscratchCnt=\count158
+\MPscratchDim=\dimen166
+\MPnumerator=\count159
+\makeMPintoPDFobject=\count160
 \everyMPtoPDFconversion=\toks30
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -475,19 +516,22 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-LaTeX Info: Redefining \degres on input line 67.
+LaTeX Info: Redefining \degres on input line 68.
 
 
 Package french.ldf Warning: Figures' and tables' captions might look like
 (french.ldf)                `Figure 1:' in French instead of `Figure 1 :'.
-(french.ldf)                If it happens, see your class documentation to
-(french.ldf)                fix this issue or add AFTER babel/french
+(french.ldf)                If you have loaded any of the packages caption,
+(french.ldf)                subcaption or floatrow BEFORE babel/french,
+(french.ldf)                please move them AFTER babel/french.
+(french.ldf)                If one of them is loaded by your class,
+(french.ldf)                you can still add AFTER babel/french
 (french.ldf)                \usepackage[labelsep=period]{caption} or
 (french.ldf)                \usepackage[labelsep=endash]{caption} or
-(french.ldf)                or ... live with it; reported on input line 67.
+(french.ldf)                ... live with it; reported on input line 68.
 
-LaTeX Info: Redefining \dots on input line 67.
-LaTeX Info: Redefining \up on input line 67.
+LaTeX Info: Redefining \dots on input line 68.
+LaTeX Info: Redefining \up on input line 68.
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -524,12 +568,12 @@ LaTeX Info: Redefining \up on input line 67.
 
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 67.
-LaTeX Font Info:    Try loading font information for U+msa on input line 86.
+(lastpage)             ! on input line 68.
+LaTeX Font Info:    Try loading font information for U+msa on input line 87.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 86.
+LaTeX Font Info:    Try loading font information for U+msb on input line 87.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -542,92 +586,116 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <img/sdgs.png, id=10, 794.97pt x 614.295pt>
 File: img/sdgs.png Graphic file (type png)
 <use img/sdgs.png>
-Package pdftex.def Info: img/sdgs.png  used on input line 103.
+Package pdftex.def Info: img/sdgs.png  used on input line 104.
 (pdftex.def)             Requested size: 300.0pt x 231.8223pt.
 
-Underfull \vbox (badness 2903) has occurred while \output is active []
+Underfull \vbox (badness 3271) has occurred while \output is active []
 
- [2 <./img/sdgs.png>]
-<img/marine-life-dead-zones.png, id=18, 833.1125pt x 696.6025pt>
+ [2 <./img/sdgs.png>] [3]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4]
+<img/marine-life-dead-zones.png, id=24, 833.1125pt x 696.6025pt>
 File: img/marine-life-dead-zones.png Graphic file (type png)
 <use img/marine-life-dead-zones.png>
-Package pdftex.def Info: img/marine-life-dead-zones.png  used on input line 137
+Package pdftex.def Info: img/marine-life-dead-zones.png  used on input line 147
 .
 (pdftex.def)             Requested size: 200.0pt x 167.2199pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 126--144
-
- []
-
-[3]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [4 <./img/marine-life-dead-zones.png (PNG copy)>]
-Underfull \hbox (badness 10000) in paragraph at lines 145--147
+Underfull \hbox (badness 10000) in paragraph at lines 136--154
 
  []
 
 [5]
-Overfull \hbox (3.45888pt too wide) in paragraph at lines 154--155
+Underfull \hbox (badness 10000) in paragraph at lines 156--158
+
+ []
+
+[6 <./img/marine-life-dead-zones.png (PNG copy)>]
+Overfull \hbox (3.45888pt too wide) in paragraph at lines 165--166
 []\T1/cmr/m/n/10 Pour une va-ria-tion en-vi-ron-ne-men-tale don-née, il est trè
 s pro-bable de trou-ver quelques
  []
 
-<img/ibgn.jpg, id=29, 521.95pt x 391.4625pt>
+<img/ibgn.jpg, id=32, 521.95pt x 391.4625pt>
 File: img/ibgn.jpg Graphic file (type jpg)
 <use img/ibgn.jpg>
-Package pdftex.def Info: img/ibgn.jpg  used on input line 169.
+Package pdftex.def Info: img/ibgn.jpg  used on input line 180.
 (pdftex.def)             Requested size: 300.0pt x 224.99959pt.
 
-Package natbib Warning: Citation `ibgn' on page 6 undefined on input line 171.
+Package natbib Warning: Citation `ibgn' on page 7 undefined on input line 182.
 
-[6] [7 <./img/ibgn.jpg>]
-<img/bottle_enclosure.png, id=41, 330.23375pt x 617.30624pt>
+
+Package natbib Warning: Citation `ibgn' on page 7 undefined on input line 182.
+
+[7] [8 <./img/ibgn.jpg>] [9]
+<img/bottle_enclosure.png, id=47, 330.23375pt x 617.30624pt>
 File: img/bottle_enclosure.png Graphic file (type png)
 <use img/bottle_enclosure.png>
-Package pdftex.def Info: img/bottle_enclosure.png  used on input line 198.
+Package pdftex.def Info: img/bottle_enclosure.png  used on input line 210.
 (pdftex.def)             Requested size: 100.0pt x 186.92645pt.
- [8]
-<img/riffle_parts_2.png, id=45, 1350.04375pt x 323.2075pt>
+ [10 <./img/bottle_enclosure.png>]
+<img/riffle_parts_2.png, id=51, 1350.04375pt x 323.2075pt>
 File: img/riffle_parts_2.png Graphic file (type png)
 <use img/riffle_parts_2.png>
-Package pdftex.def Info: img/riffle_parts_2.png  used on input line 215.
+Package pdftex.def Info: img/riffle_parts_2.png  used on input line 227.
 (pdftex.def)             Requested size: 300.0pt x 71.82097pt.
- [9 <./img/bottle_enclosure.png>]
-<img/mae-dagua.jpg, id=49, 192.72pt x 128.3997pt>
+<img/mae-dagua.jpg, id=52, 192.72pt x 128.3997pt>
 File: img/mae-dagua.jpg Graphic file (type jpg)
 <use img/mae-dagua.jpg>
-Package pdftex.def Info: img/mae-dagua.jpg  used on input line 226.
+Package pdftex.def Info: img/mae-dagua.jpg  used on input line 238.
 (pdftex.def)             Requested size: 300.0pt x 199.87561pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 223--232
+Underfull \hbox (badness 10000) in paragraph at lines 235--244
 
  []
 
-[10 <./img/riffle_parts_2.png>] [11 <./img/mae-dagua.jpg>] [12]
-<img/ecosystem-flowchart.png, id=59, 645.91313pt x 340.27126pt>
+[11 <./img/riffle_parts_2.png>] [12 <./img/mae-dagua.jpg>] [13]
+<img/ecosystem-flowchart.png, id=63, 645.91313pt x 340.27126pt>
 File: img/ecosystem-flowchart.png Graphic file (type png)
 <use img/ecosystem-flowchart.png>
-Package pdftex.def Info: img/ecosystem-flowchart.png  used on input line 261.
+Package pdftex.def Info: img/ecosystem-flowchart.png  used on input line 273.
 (pdftex.def)             Requested size: 300.0pt x 158.04277pt.
- [13 <./img/ecosystem-flowchart.png>]
-<img/nawms3.png, id=65, 334.851pt x 211.38976pt>
+
+Underfull \vbox (badness 1226) has occurred while \output is active []
+
+ [14 <./img/ecosystem-flowchart.png>]
+<img/nawms.png, id=68, 558.28575pt x 336.0555pt>
+File: img/nawms.png Graphic file (type png)
+<use img/nawms.png>
+Package pdftex.def Info: img/nawms.png  used on input line 289.
+(pdftex.def)             Requested size: 200.0pt x 120.38506pt.
+<img/nawms2.png, id=69, 855.79726pt x 479.391pt>
+File: img/nawms2.png Graphic file (type png)
+<use img/nawms2.png>
+Package pdftex.def Info: img/nawms2.png  used on input line 290.
+(pdftex.def)             Requested size: 200.0pt x 112.03513pt.
+
+Overfull \hbox (15.3821pt too wide) in paragraph at lines 289--291
+[][] [] 
+ []
+
+<img/nawms3.png, id=70, 334.851pt x 211.38976pt>
 File: img/nawms3.png Graphic file (type png)
 <use img/nawms3.png>
-Package pdftex.def Info: img/nawms3.png  used on input line 279.
+Package pdftex.def Info: img/nawms3.png  used on input line 300.
 (pdftex.def)             Requested size: 300.0pt x 189.391pt.
- [14 <./img/nawms3.png>]
-<img/RAI.png, id=70, 688.37175pt x 517.33275pt>
+[15 <./img/nawms.png> <./img/nawms2.png>] [16 <./img/nawms3.png>]
+<img/RAI.png, id=77, 688.37175pt x 517.33275pt>
 File: img/RAI.png Graphic file (type png)
 <use img/RAI.png>
-Package pdftex.def Info: img/RAI.png  used on input line 295.
+Package pdftex.def Info: img/RAI.png  used on input line 316.
 (pdftex.def)             Requested size: 300.0pt x 225.46419pt.
 
 
-Package natbib Warning: Citation `hudart' on page 15 undefined on input line 29
-7.
+Package natbib Warning: Citation `hudart' on page 17 undefined on input line 31
+8.
 
-[15] [16 <./img/RAI.png>] (document.bbl [17] [18
+
+Package natbib Warning: Citation `hudart' on page 17 undefined on input line 31
+8.
+
+[17] [18 <./img/RAI.png>] (document.bbl [19] [20
 
 ])
 
@@ -635,32 +703,31 @@ Package natbib Warning: There were undefined citations.
 
 
 AED: lastpage setting LastPage
-[19] (document.aux) ) 
+[21] (document.aux) ) 
 Here is how much of TeX's memory you used:
- 5704 strings out of 492969
- 77106 string characters out of 3135789
- 173266 words of memory out of 3000000
- 9440 multiletter control sequences out of 15000+200000
- 15979 words of font info for 44 fonts, out of 3000000 for 9000
+ 6859 strings out of 492969
+ 98303 string characters out of 3135789
+ 189981 words of memory out of 3000000
+ 10590 multiletter control sequences out of 15000+200000
+ 12861 words of font info for 32 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,10n,43p,2217b,423s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 44i,10n,43p,2217b,423s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm-s
 uper-t1.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.
 pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/P
 rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Fi
-les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX
- 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts
-/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
-ublic/cm-super/sfbx0900.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-
-super/sfbx1000.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfb
-x1200.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1440.pfb
-><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm0900.pfb><C:/Prog
-ram Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1000.pfb><C:/Program Files
-/MiKTeX 2.9/fonts/type1/public/cm-super/sfti1000.pfb><C:/Program Files/MiKTeX 2
-.9/fonts/type1/public/cm-super/sfxc0900.pfb>
-Output written on document.pdf (19 pages, 1667420 bytes).
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/cm-super/sfbx0900.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
+public/cm-super/sfbx1000.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm
+-super/sfbx1200.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sf
+bx1440.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfcc1000.pf
+b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm0900.pfb><C:/Pro
+gram Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1000.pfb><C:/Program File
+s/MiKTeX 2.9/fonts/type1/public/cm-super/sfti1000.pfb>
+Output written on document.pdf (21 pages, 1766296 bytes).
 PDF statistics:
- 133 PDF objects out of 1000 (max. 8388607)
+ 137 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
 

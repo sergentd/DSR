@@ -1,26 +1,26 @@
 \babel@toc {french}{}
-\contentsline {title}{Les Citizen Sciences dans\unskip \ \ignorespaces l'accomplissement des SDGs : \unskip \ \ignorespaces un exemple environnemental}{1}
+\contentsline {title}{Les Citizen Sciences dans\unskip \ \ignorespaces l'accomplissement des SDG's : \unskip \ \ignorespaces un exemple environnemental}{1}
 \authcount {1}
 \contentsline {author}{Djavan Sergent \unskip \ \ignorespaces Superviseur : Fran\IeC {\c c}ois Grey\unskip \ \ignorespaces Master en Sciences Informatiques \unskip \ \ignorespaces djavan.sergent@etu.unige.ch}{1}
 \contentsline {section}{\numberline {1}Introduction}{2}
 \contentsline {section}{\numberline {2}Sustainable Developpment Goals}{3}
 \contentsline {subsection}{\numberline {2.1}Objectifs}{3}
-\contentsline {subsection}{\numberline {2.2}Progr\IeC {\`e}s, revue et indicateurs}{3}
-\contentsline {section}{\numberline {3}Surveillance environnementale}{3}
-\contentsline {subsection}{\numberline {3.1}Eau}{3}
+\contentsline {subsection}{\numberline {2.2}Progr\IeC {\`e}s, revue et indicateurs}{4}
+\contentsline {section}{\numberline {3}Surveillance environnementale}{4}
+\contentsline {subsection}{\numberline {3.1}Eau}{4}
 \contentsline {subsection}{\numberline {3.2}Air}{5}
-\contentsline {subsection}{\numberline {3.3}Bio-indicateurs}{5}
-\contentsline {subsection}{\numberline {3.4}R\IeC {\'e}seaux de capteurs autonomes sans fils}{7}
+\contentsline {subsection}{\numberline {3.3}Bio-indicateurs}{6}
+\contentsline {subsection}{\numberline {3.4}R\IeC {\'e}seaux de capteurs autonomes sans fils}{8}
 \contentsline {section}{\numberline {4}Participation citoyenne}{8}
-\contentsline {subsection}{\numberline {4.1}Projets}{9}
-\contentsline {subsubsection}{Public Lab}{9}
-\contentsline {subsubsection}{InfoAmazonia}{10}
-\contentsline {subsubsection}{Reef Citizen Science Alliance}{12}
-\contentsline {subsubsection}{World Water Monitoring Challenge}{12}
-\contentsline {subsubsection}{FreshWater Watch}{12}
-\contentsline {subsubsection}{NAWMS}{13}
-\contentsline {subsubsection}{Riverfly Monitoring Initiative}{15}
-\contentsline {subsubsection}{Restoration Assessment Initiative}{15}
-\contentsline {subsubsection}{Autres projets, logiciels et applications}{17}
-\contentsline {subsubsection}{Open Air}{17}
-\contentsline {section}{\numberline {5}Conclusion}{17}
+\contentsline {subsection}{\numberline {4.1}Citizen Cyberlab}{8}
+\contentsline {subsection}{\numberline {4.2}Public Lab}{9}
+\contentsline {subsection}{\numberline {4.3}InfoAmazonia}{11}
+\contentsline {subsection}{\numberline {4.4}Reef Citizen Science Alliance}{12}
+\contentsline {subsection}{\numberline {4.5}World Water Monitoring Challenge}{13}
+\contentsline {subsection}{\numberline {4.6}FreshWater Watch}{13}
+\contentsline {subsection}{\numberline {4.7}NAWMS}{14}
+\contentsline {subsection}{\numberline {4.8}Riverfly Monitoring Initiative}{16}
+\contentsline {subsection}{\numberline {4.9}Restoration Assessment Initiative}{16}
+\contentsline {subsection}{\numberline {4.10}Autres projets, logiciels et applications}{18}
+\contentsline {subsection}{\numberline {4.11}Open Air}{18}
+\contentsline {section}{\numberline {5}Conclusion}{18}

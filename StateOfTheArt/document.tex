@@ -57,7 +57,8 @@
 \usepackage{fancyhdr}
 \usepackage{lastpage}
 
-
+% *** HEADER AND FOOTER ***
+%
 \pagestyle{fancy}
 \fancyhf{}
 \lhead{\rightmark}
@@ -68,7 +69,7 @@
 \begin{document}
 %
 % paper title
-\title{Les Citizen Sciences dans\\l'accomplissement des SDGs : \\un exemple environnemental}
+\title{Les Citizen Sciences dans\\l'accomplissement des SDG's : \\un exemple environnemental}
 
 
 
@@ -105,7 +106,6 @@ djavan.sergent@etu.unige.ch}
 		\end{center}
 		\caption{Icônes des SDGs (source : Sustainable Development Knowledge Platform)}
 	\end{figure}
-	\\
 	Nous analysons dans cet article le rôle du numérique dans la réalisation des certains SDGs, particulièrement du point de vue de la participation citoyenne. Une attention spéciale est portée sur la qualité de l'eau et de l'air, sur les différents indicateurs qui permettent de l'évaluer et sur les méthodes de surveillance utilisé tant au niveau global que local au moyen de prélèvements.
 
 \section{Sustainable Developpment Goals}
@@ -141,13 +141,13 @@ djavan.sergent@etu.unige.ch}
 			Concernant l'accès à l'eau potable, la situation évolue positivement. On constate qu'en 2000, 82 pourcent de la population dispose d'une source d'eau aménagée contre 91\% en 2015. Cependant, on estime également qu'environ 25\% de la population mondiale est exposée à de l'eau contaminée par des matières fécales \cite{united_nations_goal_nodate-4}. \\
 			Selon le rapport \cite{rana_water_2017}, il n'existe pas de plan complet qui permette la mise en place d'un système de gestion renouvelable des ressources en eau et le manque de données précises rend impossible l'évaluation des performances pour les approches actuellement implémentées. \\
 			Toujours d'après ce même rapport, les innondations sont à l'origine de nombreuses maladies et dommages causés à des infrastructures. Les innondations peuvent causer des épidémies, comme le démontre le cas de Itaparica Dam au Brésil lors duquel, en 1988, plus de 2000 cas de gastroantérite sont déclarés sur une période de 42 jours. 88 d'entre eux s'avéreront mortels. Les innondations favorisent également la reproduction des moustiques et ainsi la propagation de maladies telles que la Rift Valley Fever (RFV) \cite{hanafi_rift_2010}.\\
-			Un aspect également très important de la gestion de l'eau concerne les "Dead Zones" qui s'étendent de façon exponnentielle depuis 1960 \cite{diaz_spreading_2008}. Les "Dead Zones" sont de larges étendues d'eau qui n'ont plus assez d'oxygène pour assurer la vie marine. En 2008, 400 de ces zones affectant plus de 245'000km$^{2}$, majoritairement situées dans les océans, sont répertoriées. La cause principale du développement des "Dead Zones" est la libération dans l'eau de nutriments qui accélèrent la croissance de certaines algues, réduisant la quantité d'oxygène disponible sous la surface. Bien que ces zones soient souvent d'origine naturelle, leur croissance est particulièrement accélérée par la proximité de sites industriels et agricoles qui rejettent leurs nutriments dans l'eau. \\
+			Un aspect également très important de la gestion de l'eau concerne les "Dead Zones" qui s'étendent de façon exponnentielle depuis 1960 \cite{diaz_spreading_2008}. Les "Dead Zones" sont de larges étendues d'eau qui n'ont plus assez d'oxygène pour assurer la vie marine. En 2008, 400 de ces zones affectant plus de 245'000km$^{2}$, majoritairement situées dans les océans, sont répertoriées. La cause principale du développement des "Dead Zones" est la libération dans l'eau de nutriments qui accélèrent la croissance de certaines algues, réduisant la quantité d'oxygène disponible sous la surface. Bien que ces zones soient souvent d'origine naturelle, leur croissance est particulièrement accélérée par la proximité de sites industriels et agricoles qui rejettent leurs nutriments dans l'eau.
 			\begin{figure}
 				\begin{center}
 					\includegraphics[width=200pt]{img/marine-life-dead-zones.png}
 				\end{center}
 				\caption{Répartition des zones mortes (source : nasa.gov)}
-			\end{figure} \\
+			\end{figure}
 			Autre constat : certains pays dépassent en consommation la quantité d'eau renouvelable à disposition et exercent donc une pression sur le cycle de l'eau. \\
 			La multitude de problématiques présentées ci-dessus explique pourquoi l'eau est au coeur des SDGs. Depuis de très nombreuses années, une attention particulière est portée à la qualité de l'eau et aux dangers liés à une contamination de celle-ci \cite{ashbolt_microbial_2004}. Le manque d'infrastructures sanitaires dans les régions en développement les rends vulnérables aux morts par contamination de l'eau. Neuf morts sur dix touchent les enfants, et tous les décès surviennent dans ces régions. \\
 			Aujourd'hui, de nombreux outils permettent de suivre avec précision les indicateurs classiques de qualité de l'eau tels que le taux d'oxygène, l'acidité, la température, la conductivité etc. Ceci est très important pour la réalisation du but 6.3 : <<By 2030, improve water quality by reducing pollution, eliminating dumping and minimizing release of hazardous chemicals and materials, halving the proportion of untreated wastewater and substantially increasing recycling and safe reuse globally>> \cite{united_nations_goal_nodate-4}. \\
@@ -185,15 +185,8 @@ djavan.sergent@etu.unige.ch}
 			Cependant, cette méthode d'analyse n'est pas adaptée aux zones sources et/ou profondes et ne permet pas d'évaluer la variabilité saisonnière liée aux cycles biologiques. Il n'est pas possible non plus d'identifier la nature exacte de la perturbation observée. De plus, certaines zones comme les rivières de haute montagne dont la diversité naturelle est faible on un indice inférieur à l'indice de référence ($IBGN = 20$) en dehors de toute perturbation. Pour les cours d'eau profonds, on préfère utiliser l'indice IBGA qui modifie légèrement le protocole de prélèvement en en effectuant certains par draguage. Lorsqu'il n'est pas possible d'effectuer un draguage (fonds encombrés et/ou navigation trop importante) on utilise la méthode IQBP qui consiste à laisser un piège à benthiques 1 mois au fond de l'eau pour que ceux-ci le colonisent. Les indices IBGA et IQBP sont également basés sur une note sur 20 établie sur l'analyse de la faune benthique.
 		
 		\subsection{Réseaux de capteurs autonomes sans fils}
-			Les réseaux de capteurs sans fils (Wireless Autonomous Sensor Network - WASN) sont des réseaux dont les capteurs sont distribués dans l'espace et le temps. La spécificité de ce type de réseau est qu'ils doivent pouvoir se montrer redondants face à une défaillance de l'un des noeuds du réseau. Le routage de l'information doit être optimisé pour favoriser la durée de vie du réseau. On considère en effet que les différents noeuds disposent d'une source d'énergie limitée avant de devoir être rechargés, supprimés ou remplacés. La transmission d'information par radio-fréquence est extrêmement coûteuse en énergie, c'est pourquoi il existe de nombreux algorithmes permettant d'optimiser la consommation du réseau localement mais aussi globalement. D'autres algorithmes permettent aux capteurs de se situer spacialement pour appliquer les différents protocoles de routage possibles. Il est nécessaire de disposer d'au moins un point de référence (Sink) pour que les capteurs sachent où ils se trouvent et pour connaître la direction globale du routage de l'information. Le Sink peut alors décider d'émettre des requêtes pour certaines informations spécifiques et favoriser les liens d'ou les données proviennent en abondances.\\
-			Pour les petits réseaux, sans une gestion efficace des transmission, la consommation d'énergie se retrouve fortement accentuée vers les noeuds les plus proches du Sink ce qui provoque un arrêt prématuré de ces capteurs. Une stratégie consiste à établir des clusters de capteurs, et dans chacun d'eux élire un Cluster Head. Les noeuds du cluster envoient l'information au Cluster Head, et chaque Cluster Head envoie ensuite l'information compressée au Sink. En changeant régulièrement de nouveaux Cluster Head, on balance la charge énergétique entre les différents noeuds et on prolonge la durée de vie globale du réseau. Cela implique un lien théorique direct entre chaque noeud du réseau et le Sink, ce qui n'est souvent pas applicable. Une autre stratégie propose de décomposer le réseau en tranches, et chaque noeud du réseau analyse sa propre énergie pour déterminer à quelle tranche il doit envoyer le paquet (avec une certaine probabilité pour une transmission directe au Sink si la portée le permet) pour optimiser son autonomie. Concernant la résilience face aux défauts du réseau et aux obstacles, des algorithmes avancés de routages permettent (dans un réseau dense), de contourner efficacement les obstacles. D'autres permettent également de faire face à une situation ou le Sink et/ou les capteurs aont mobiles, ce qui est un scénario probable dans certains cas. Par exemple le Zebra Network fonctionne sur la transmission entre zèbres de pairs à pairs et les données sont récoltées au moyen d'un équipement installé à bord d'une voiture. Le conducteur espère ainsi rencontrer un zèbre qui permettra de lui fournir des informations sur les autres qu'il aura rencontré entre deux récoltes. Cette approche permet également d'identifier les bonnes sources de données et d'optimiser l'utilisation des ressources pour la récolte des informations. Dans les faits, ce réseau présente l'avantage d'être redondant et efficace mais a le défaut de recueillir peut de données sur les individus les plus isolés (cela peut par exemple être du au comportement anormal des noeuds, à leurs modes ou à leurs vitesses de déplacement). 
-
-
-	
-	%\section{Monitoring sociétal}
-	%	\subsubsection{Santé}
-	%	\subsubsection{Sécurité}
-	%	\subsubsection{Développement}
+			Les réseaux de capteurs sans fils (Wireless Autonomous Sensor Network - WASN) sont des réseaux dont les capteurs sont distribués dans l'espace et le temps. La spécificité de ce type de réseau est qu'ils doivent pouvoir se montrer redondants face à une défaillance de l'un des noeuds du réseau. Le routage de l'information doit être optimisé pour favoriser la durée de vie du réseau. On considère en effet que les différents noeuds disposent d'une source d'énergie limitée avant de devoir être rechargés, supprimés ou remplacés. La transmission d'information par radio-fréquence est extrêmement coûteuse en énergie, c'est pourquoi il existe de nombreux algorithmes permettant d'optimiser la consommation du réseau localement mais aussi globalement. D'autres algorithmes permettent aux capteurs de se situer spacialement pour appliquer les différents protocoles de routage possibles.\\
+			Ces réseaux sont très intéressants dans le cadre du monitoring environnemental puisqu'ils permettent de couvrir de large étendues. 
 		
 \section{Participation citoyenne}
 	Les citoyens peuvent contribuer à la réalisation de ces SDGs par plusieurs moyens, qu'il s'agisse de la récupération, du traitement des données receuillies sur le terrain, de la mise à disposition de ressources ou d'outils. On peut citer en exemple le "World Water Monitoring Day", journée lors de laquelle des miliers de citoyens vont récupérer, dans les points d'eau proche de chez eux, des échantillonsdont la qualité est analysée. \\
@@ -202,6 +195,9 @@ djavan.sergent@etu.unige.ch}
 	Les citoyens ordinaires peuvent également proposer des solutions innovantes comme le démontre Jeff Bass au moyen de son réseau autonome de 13 Respberry Pi utilisés dans sa ferme Californienne afin de mesurer la quantité d'eau utilisée, détecter les fuites et recevoir des alertes lorsque l'utilisation de l'eau est anormale.
 
 	\subsection{Projets}
+		\subsubsection{Citizen Cyberlab}
+			Citizen Cyberlab est une organisation créée en collaboration avec le Centre Européen de Recherche Nucléaire (CERN), l'United Nations Institute for Training And Research (unitar) et l'Université de Genève qui participe activement à la recherche de nouvelles possibilités pour que les citoyens puissent participer à la recherche. Citizen Cyberlab agit sur des projets classés en quatres catégories (computing, thinking, sensing, understanding) en fonction de leur objectif prioritaire. Tous les projets sont orientés pour respecter les normes Open Science, c'est à dire du matériel, des logiciels, des formats de données et des publications libres.\\
+			L'un des projets de la catégorie computing se nomme "Computing for Clean Water". Il est mené en collaboration avec l'IBM World Community Grid et un centre multidisciplinaire de l'Université de Tsinghua et a pour ambition de modéliser et comprendre les propriétés moléculaires de nouvelles classes de filtres à eau efficaces et bon marché destinés à aider à répondre à la demande d'eau peu chère, propre et consommable. Ces filtres, développés en collaboration avec de nombreuses universités, sont constitués de nanotubes de carbones qui réduisent la friction de l'eau sous certaines conditions et permettent une amélioration de la diffusion de l'eau de près de 300\% Cette étude se base sur une simulation de plusieurs années qui requiert environ 40'000 années de calculs sur un ordinateur personnel standard. L'utilisation du public a déjà permit de réduire de façon significative le nombre d'années nécessaires et les coûts pour les scientifiques puisqu'ils ont pu bénéficier de la puissance de calcul de près de 3 milions d'ordinateurs répartis à travers le monde grâce à l'IBM World Community Grid. Si les calculs avaient été effectués de façon commerciale, ils auraient couté environ 15 millions de dollars américains. Le projet vise désormais à une meilleure compréhension du phénomène physique à l'origine de cette amélioration de la diffusion de l'eau à travers les nanotubes.
 		\subsubsection{Public Lab}
 		Public Lab est un réseau américain de sciences citoyennes. Ils développent du matériel et des logiciels qui sont ensuite utilisés dans des projets de sciences citoyennes. Ils sont à l'origine de nombreux projets tels que l'Open Water Project, Open Air, Open Land, etc. et contribuent à d'autres tel que l'InfoAmazonia en participant à l'élaboration des composants utilisés dans le capteur Mae d'Agua.\\
 			Public Lab a créé de nombreux capteurs spécialisés dans l'analyse des données environnementales. Le Riffle est designé pour être étanche, open source, open hardware et compatible avec un Arduino. Il permet initialement de mesurer la température de l'eau, mais il est également modulable et on peut lui ajouter des capteurs de turbidité, de pression et de conductivité. Cette modularité et son prix relativement bas lui offre une large variété de cas d'utilisation. Le Riffle est pensé pour répondre aux critères suivants :
@@ -281,18 +277,15 @@ djavan.sergent@etu.unige.ch}
 			On a constaté que donner des informations précises et en temps réel aux usagers sur leur consommation d'essence avait permit de les sensibiliser et de mieux conserver les réserves. Le Non-intrusive Autonomous Water Monitoring System vise à appliquer cette philosophie à la consommation d'eau : en donnant aux gens la possibilité de savoir ce qu'ils consomment et comment, on leur donne les informations nécessaires pour adapter leurs habitudes à un mode plus économe et renouvelable. Nous n'avons en effet pas idée de ce qu'est une consommation considérée comme "faible", "modérée" ou "forte" en tant que particulier.\\
 			Le NAWMS est un système de surveillance de la consommation de l'eau qui est non intrusif et autonome pour sa calibration. Il se base sur la propagation des vibrations le long des tuyaux qui est proportionnelle au débit d'eau.\\
 			Ce système est basé sur une archiecture deux-tiers :
+			\begin{figure}
+				\includegraphics[width=200pt]{img/nawms.png}
+				\includegraphics[width=200pt]{img/nawms2.png}
+				\caption{Architecture du système NAWMS (source : \cite{kim_nawms:_2008})}
+			\end{figure}
 			\begin{enumerate}
 				\item Le premier tier est le fournisseur du service. Celui ci est précis mais centralisé et ne dispose donc pas d'une répartition spatiale fine. Il s'agit également d'une source fiable dont l'utilisateur n'a pas à se préoccuper de la maintenance, de la précision ou du bon fonctionnement. De plus, il est considéré comme toujours disponible et permet au système de se calibrer continuellement.
 				\item Le second tier est l'ensemble des capteurs de vibrations répartis sur les différents tuyaux. Ceux-ci sont moins précis mais sont disribués finement spatialement. Cette architecture en deux-tiers permet d'obtenir des résultats globaux et locaux précis.
 			\end{enumerate}
-			\begin{figure}
-					\includegraphics[width=200pt]{img/nawms.png}
-					\includegraphics[width=200pt]{img/nawms2.png}
-				
-				\begin{center}
-					\caption{Architecture du système NAWMS (source : \cite{kim_nawms:_2008})}
-				\end{center}
-			\end{figure}
 		
 			Le système est capable de modéliser le bruit externe, les limitations et caractéristiques physiques ainsi que les performances. La métrique de performance est utilisée pour calibrer l'ensemble du système automatiquement sans avoir recours à une intervention manuelle pour la maintenance. Ce calibrage est rendu possible par la reformulation des équations d'optimisation sous une forme résolvable en un temps polynomial. Les différents paramètres de ces équations sont : la vibration mesurée, la constante de propagation des vibrations du tuyau $j$ au tuyau $i$ (propre au matériaux utilisés) et la vibration induite par le débit d'eau sur le tuyau $j$.
 			\begin{figure}

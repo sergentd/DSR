@@ -1,6 +1,13 @@
 \newcommand{\etalchar}[1]{$^{#1}$}
 \begin{thebibliography}{HGMH{\etalchar{+}}07}
 
+\bibitem[AD10]{archaimbault_indice_2010}
+V.~Archaimbault and B.~Dumont.
+\newblock L'indice biologique global normalisé ({IBGN}) : principes et
+  évolution dans le cadre de la directive cadre européenne sur l'eau.
+\newblock {\em Sciences Eaux and Territoires : la Revue du IRSTEA}, (1):p. 36
+  -- p. 39, 2010.
+
 \bibitem[APW{\etalchar{+}}]{andersen_long-term_nodate}
 Zorana~J. Andersen, Marie Pedersen, Gudrun Weinmayr, Massimo Stafoggia, Claudia
   Galassi, Jeanette~T. Jørgensen, Johan~N. Sommar, Bertil Forsberg, David
@@ -111,12 +118,29 @@ United Nations.
 United Nations.
 \newblock Goal 6 .:. {Sustainable} {Development} {Knowledge} {Platform}.
 
+\bibitem[Natc]{united_nations_high-level_nodate}
+United Nations.
+\newblock High-level {Political} {Forum} .:. {Sustainable} {Development}
+  {Knowledge} {Platform}.
+
 \bibitem[Nat09]{united_nations_millennium_2009}
 United Nations.
 \newblock {\em Millennium {Development} {Goals} {Report} 2009 ({Includes} the
   2009 {Progress} {Chart})}.
 \newblock United Nations Publications, 2009.
 \newblock Google-Books-ID: wDro5dHnTk4C.
+
+\bibitem[noaa]{noauthor_citizen_nodate}
+Citizen {CyberLab}.
+
+\bibitem[noab]{noauthor_jeff_nodate}
+Jeff {Bass} – {PyImageConf}.
+
+\bibitem[Pro]{professor_course_nodate}
+Sotiris Nikoletseas~Visiting Professor.
+\newblock Course ``{Distributed} {Algorithms} for {Wireless} {Sensor}
+  {Networks}'' {Lecture} 1: {Introduction} / {Data} propagation algorithms {I}.
+\newblock page~51.
 
 \bibitem[RN17]{rana_water_2017}
 Himanshu Rana and Nirvair Neeru.

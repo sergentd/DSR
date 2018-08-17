@@ -2,10 +2,10 @@ This is BibTeX, Version 0.99dThe top-level auxiliary file: document.aux
 The style file: alpha.bst
 Database file #1: soa.bib
 Warning--I didn't find a database entry for "ibgn"
-Warning--to sort, need author or key in noauthor_jeff_nodate
-Warning--to sort, need author or key in noauthor_citizen_nodate
 Warning--there's a number but no volume in archaimbault_indice_2010
 Warning--empty year in andersen_long-term_nodate
+Warning--empty journal in lordkipanidze_che_nodate
+Warning--empty year in lordkipanidze_che_nodate
 Warning--empty journal in professor_course_nodate
 Warning--empty year in professor_course_nodate
 Warning--empty institution in yale_university_epi_2016

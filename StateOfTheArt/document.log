@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6745 64-bit) (preloaded format=pdflatex 2018.7.16)  20 AUG 2018 16:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6745 64-bit) (preloaded format=pdflatex 2018.7.16)  20 AUG 2018 16:48
 entering extended mode
 **./document.tex
 (document.tex
@@ -703,19 +703,23 @@ File: img/RAI.png Graphic file (type png)
 Package pdftex.def Info: img/RAI.png  used on input line 324.
 (pdftex.def)             Requested size: 300.0pt x 225.46419pt.
  [17] [18 <./img/RAI.png>]
-[19] (document.bbl [20] [21
+[19]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-] [22]) 
+ [20]
+(document.bbl [21] [22
+
+] [23]) 
 AED: lastpage setting LastPage
-[23] (document.aux) ) 
+[24] (document.aux) ) 
 Here is how much of TeX's memory you used:
- 6903 strings out of 492969
- 99625 string characters out of 3135789
- 191199 words of memory out of 3000000
- 10630 multiletter control sequences out of 15000+200000
+ 6906 strings out of 492969
+ 99697 string characters out of 3135789
+ 191217 words of memory out of 3000000
+ 10633 multiletter control sequences out of 15000+200000
  14395 words of font info for 34 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,10n,43p,1774b,441s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 44i,10n,43p,1762b,423s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm-s
 uper-t1.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.
 pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/P
@@ -730,9 +734,9 @@ b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm0700.pfb><C:/Pro
 gram Files/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm0900.pfb><C:/Program File
 s/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1000.pfb><C:/Program Files/MiKTeX 
 2.9/fonts/type1/public/cm-super/sfti1000.pfb>
-Output written on document.pdf (23 pages, 2452577 bytes).
+Output written on document.pdf (24 pages, 2454110 bytes).
 PDF statistics:
- 150 PDF objects out of 1000 (max. 8388607)
+ 153 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  66 words of extra memory for PDF output out of 10000 (max. 10000000)
 

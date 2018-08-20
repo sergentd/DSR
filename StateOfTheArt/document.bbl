@@ -5,10 +5,10 @@
 V.~Archaimbault and B.~Dumont.
 \newblock L'indice biologique global normalisé ({IBGN}) : principes et
   évolution dans le cadre de la directive cadre européenne sur l'eau.
-\newblock {\em Sciences Eaux and Territoires : la Revue du IRSTEA}, (1):p. 36
+\newblock {\em Sciences Eaux and Territoires : la Revue du IRSTEA}, 1(1):p. 36
   -- p. 39, 2010.
 
-\bibitem[APW{\etalchar{+}}]{andersen_long-term_nodate}
+\bibitem[APW{\etalchar{+}}17]{andersen_long-term_2017}
 Zorana~J. Andersen, Marie Pedersen, Gudrun Weinmayr, Massimo Stafoggia, Claudia
   Galassi, Jeanette~T. Jørgensen, Johan~N. Sommar, Bertil Forsberg, David
   Olsson, Bente Oftedal, Gunn~Marit Aasvang, Per Schwarze, Andrei Pyko, Göran
@@ -23,7 +23,7 @@ Zorana~J. Andersen, Marie Pedersen, Gudrun Weinmayr, Massimo Stafoggia, Claudia
 \newblock Long-term exposure to ambient air pollution and incidence of brain
   tumor: the {European} {Study} of {Cohorts} for {Air} {Pollution} {Effects}
   ({ESCAPE}).
-\newblock {\em Neuro-Oncology}.
+\newblock {\em Neuro-Oncology}, August 2017.
 
 \bibitem[Ash04]{ashbolt_microbial_2004}
 Nicholas~John Ashbolt.
@@ -41,6 +41,11 @@ United Nations Economic {and}~Social Council.
 \newblock Progress towards the {Sustainable} {Development} {Goals}.
 \newblock Technical report, United Nations, June 2017.
 
+\bibitem[DFFK09]{doney_ocean_2009}
+Scott~C. Doney, Victoria~J. Fabry, Richard~A. Feely, and Joan~A. Kleypas.
+\newblock Ocean {Acidification}: {The} {Other} {CO} $_{\textrm{2}}$ {Problem}.
+\newblock {\em Annual Review of Marine Science}, 1(1):169--192, January 2009.
+
 \bibitem[DR08]{diaz_spreading_2008}
 Robert~J. Diaz and Rutger Rosenberg.
 \newblock Spreading dead zones and consequences for marine ecosystems.
@@ -55,6 +60,12 @@ Yves Flückiger and Nikhil Seth.
 \bibitem[fSD]{world_business_council_for_sustainable_development_global_nodate}
 World Business~Council for Sustainable~Development.
 \newblock Global {Water} {Tool}.
+
+\bibitem[Gir91]{giroux_contamination_1991}
+Isabelle Giroux.
+\newblock Contamination de l’eau souterraine par les pesticides et les
+  nitrates dans les régions en culture de pommes de terre.
+\newblock {\em Campagnes d’Echantillonage}, pages 1992--1993, 1991.
 
 \bibitem[HGMH{\etalchar{+}}07]{hoegh-guldberg_coral_2007}
 O.~Hoegh-Guldberg, P.~J. Mumby, A.~J. Hooten, R.~S. Steneck, P.~Greenfield,
@@ -90,22 +101,16 @@ Younghun Kim, Thomas Schmid, Zainul~M. Charbiwala, Jonathan Friedman, and
 \newblock In {\em Proceedings of the 6th {ACM} conference on {Embedded} network
   sensor systems}, pages 309--322. ACM, 2008.
 
-\bibitem[Lef]{lefevre_repartition_nodate}
-Soumis par~Thierry Lefèvre.
-\newblock La répartition de l’eau sur la {Terre} {\textbar} {Planète}
-  viable {\textbar} {Les} résultats de la recherche en science du
-  développement durable.
-
 \bibitem[LNVS15]{lu_policy:_2015}
 Yonglong Lu, Nebojsa Nakicenovic, Martin Visbeck, and Anne-Sophie Stevance.
 \newblock Policy: {Five} priorities for the {UN} {Sustainable} {Development}
   {Goals}.
 \newblock {\em Nature News}, 520(7548):432, April 2015.
 
-\bibitem[Lor]{lordkipanidze_che_nodate}
+\bibitem[Lor14]{lordkipanidze_che_2014}
 David Lordkipanidze.
 \newblock {CHE} {LIANG}/{IMAGINECHINA}.
-\newblock page~3.
+\newblock {\em Nature}, 503:3, April 2014.
 
 \bibitem[LWF{\etalchar{+}}16]{liu_effects_2016}
 Peng Liu, Xining Wang, Jiayin Fan, Wenxin Xiao, and Yan Wang.
@@ -135,23 +140,51 @@ United Nations.
 \newblock United Nations Publications, 2009.
 \newblock Google-Books-ID: wDro5dHnTk4C.
 
-\bibitem[Pro]{professor_course_nodate}
+\bibitem[Pro18]{professor_course_2018}
 Sotiris Nikoletseas~Visiting Professor.
 \newblock Course ``{Distributed} {Algorithms} for {Wireless} {Sensor}
-  {Networks}'' {Lecture} 1: {Introduction} / {Data} propagation algorithms {I}.
-\newblock page~51.
+  {Networks}'' {Lecture} 1: {Introduction} / {Data} propagation algorithms {I},
+  2018.
+
+\bibitem[PTN{\etalchar{+}}95]{pope_particulate_1995}
+C.~Arden Pope, Michael~J. Thun, Mohan~M. Namboodiri, Douglas~W. Dockery,
+  John~S. Evans, Frank~E. Speizer, and Clark~W. Heath.
+\newblock Particulate air pollution as a predictor of mortality in a
+  prospective study of {US} adults.
+\newblock {\em American journal of respiratory and critical care medicine},
+  151(3):669--674, 1995.
+
+\bibitem[RKG{\etalchar{+}}14]{rabotyagov_economics_2014}
+S.~S. Rabotyagov, C.~L. Kling, P.~W. Gassman, N.~N. Rabalais, and R.~E. Turner.
+\newblock The {Economics} of {Dead} {Zones}: {Causes}, {Impacts}, {Policy}
+  {Challenges}, and a {Model} of the {Gulf} of {Mexico} {Hypoxic} {Zone}.
+\newblock {\em Review of Environmental Economics and Policy}, 8(1):58--79,
+  January 2014.
 
 \bibitem[RN17]{rana_water_2017}
 Himanshu Rana and Nirvair Neeru.
 \newblock Water {Detection} using {Satellite} {Images} {Obtained} through
   {Remote} {Sensing}.
-\newblock {\em Advances in Computational Sciences and Technology},
-  10(6):1923--1940, 2017.
+\newblock {\em Advances in Computational Sciences and Technology}, 10(6):18,
+  2017.
+
+\bibitem[Smi15]{smith_citizen_2015}
+Carla Smith.
+\newblock Citizen scientists map air pollution with smartphones.
+\newblock {\em Sciences for Environment Policy : European Commission DG
+  Environment News Alert System}, page~1, February 2015.
+
+\bibitem[TCC{\etalchar{+}}93]{texeira_gastroenteritis_1993}
+Maria da Glória Lima~Cruz Texeira, Maria da Conceiçao~Nascimento Costa, Vera
+  Lúcia Pires~de Carvalho, Manuel dos~Santos Pereira, and Eduardo Hage.
+\newblock Gastroenteritis epidemic in the area of the {Itaparica} {Dam},
+  {Bahia}, {Brazil}.
+\newblock {\em PAHO}, pages 244--253, 1993.
 
 \bibitem[Uni16]{yale_university_epi_2016}
 Yale University.
 \newblock {EPI} {Global} {Metrics} {For} {Environment}.
-\newblock Technical report, 2016.
+\newblock Technical report, Yale University, 2016.
 
 \bibitem[Wik17a]{wikipedia_millennium_2017}
 Wikipedia.
